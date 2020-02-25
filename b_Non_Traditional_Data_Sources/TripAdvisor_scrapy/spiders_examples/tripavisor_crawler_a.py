@@ -4,9 +4,13 @@
 # This script corresponds to a "spider" component for the scrapy platform and
 # allows to extract different components from the tripadvisor web platform
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # a. The spider simply calls out elements (hyperlinks) corresponding to a class (_15_ydu6b)
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+# a. The spider simply calls out elements (hyperlinks) corresponding to a class (_15_ydu6b)
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
 # Documentation about scrapy and the tutorial used to develop this script
 # visit: https://docs.scrapy.org/en/latest/intro/tutorial.html
 ##################################################
@@ -28,18 +32,26 @@ import scrapy
 class QuotesSpider(scrapy.Spider):
     name = "tripadvisor_a"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     # This variable stores the URLS to search in
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+    # This variable stores the URLS to search in
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
     start_urls = [
         'https://www.tripadvisor.com/Restaurants-g294074-Bogota.html',
     ]
 
     def parse(self, response):
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         # This loop goes through the list of restaurants labeled using classes
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+        # This loop goes through the list of restaurants labeled using classes
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
         for restaurant in response.css("a._15_ydu6b"):
             yield {
                 'name': restaurant.get(),

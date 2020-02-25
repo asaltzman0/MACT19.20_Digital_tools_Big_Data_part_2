@@ -6,6 +6,7 @@ To properly run the script you need to get credentials for the [Foursquare API](
 In this folder you can find the following resources:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 * A the [grid](grid) definition for the city of Bogotá.
 * An script implementing the API.
 =======
@@ -13,3 +14,8 @@ In this folder you can find the following resources:
 * An script implementing the API.
 * Example outputs for [Bogotá](venues/venues_bogota.csv) and [Barcelona](venues/venues_poblenou.geojson).
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+* A the [grid](grid) definition for the cities of Bogotá and Barcelona.
+* An script implementing the API.
+* Example outputs for [Bogotá](venues/venues_bogota.csv) and [Barcelona](venues/venues_poblenou.geojson).
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57

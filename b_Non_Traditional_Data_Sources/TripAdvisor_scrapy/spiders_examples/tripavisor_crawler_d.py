@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
 # encoding: utf-8
 
 ##################################################
@@ -22,7 +25,10 @@
 ##################################################
 
 
+<<<<<<< HEAD
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
 import scrapy
 
 
@@ -36,6 +42,7 @@ class QuotesSpider(scrapy.Spider):
         for restaurant in response.css("a._15_ydu6b"):
             yield {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 'name': restaurant.css("a._15_ydu6b::text").get(),
                 'name_array': restaurant.css("a._15_ydu6b::text").getall(),
                 'url': restaurant.attrib['href']
@@ -46,6 +53,8 @@ class QuotesSpider(scrapy.Spider):
             next_page = response.urljoin(next_page)
             yield scrapy.Request(next_page, callback=self.parse)
 =======
+=======
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
                 'name_joined': ' '.join(restaurant.css("a._15_ydu6b::text").getall()),
                 'url': restaurant.attrib['href']
             }
@@ -72,4 +81,7 @@ class QuotesSpider(scrapy.Spider):
             'street': response.xpath("//span[@class='street-address']/text()").get()
 
         }
+<<<<<<< HEAD
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57

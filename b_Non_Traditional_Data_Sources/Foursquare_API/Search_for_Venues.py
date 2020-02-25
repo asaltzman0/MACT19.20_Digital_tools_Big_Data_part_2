@@ -24,10 +24,14 @@ import requests
 
 # open csv file with containing the limits fo a grid cell array
 <<<<<<< HEAD
+<<<<<<< HEAD
 df_grid = pd.read_csv('./grid/grid_bogota.csv')
 =======
 df_grid = pd.read_csv('./grid/grid.csv')
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+df_grid = pd.read_csv('./grid/grid.csv')
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
 # Get only the
 df_grid = df_grid[['left', 'top']]
 
@@ -56,12 +60,17 @@ for i in df_grid.index:
     # parameters taken from the API developers page 'search for venues' (same as above)
     params = dict(
 <<<<<<< HEAD
+<<<<<<< HEAD
         client_id='0BZAXN2LOTF3DPJ4KBS1HCDCASHCI3GT1S2HEAVYTF01CB54',
         client_secret='PBFYK20HUEAG1WDBIRH2VGZD2RNQALYXQKWHKSFGT0FJ5XD2',
 =======
         client_id='BSPERAIDNGF15MW2FOSPQVAPM0K00QDMCMAMIT2H4M1M0TYO',
         client_secret='0V0TQGF3HJDDNZAKNIJNGPVUPHLLQHPRQ5TPSTJDISV2LIUJ',
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+        client_id='BSPERAIDNGF15MW2FOSPQVAPM0K00QDMCMAMIT2H4M1M0TYO',
+        client_secret='0V0TQGF3HJDDNZAKNIJNGPVUPHLLQHPRQ5TPSTJDISV2LIUJ',
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
         v='20180323',
         ll=lat_lon,  # each time it is replaced with new coordinates
         intent='browse',

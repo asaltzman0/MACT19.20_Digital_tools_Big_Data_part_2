@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
 # encoding: utf-8
 
 ##################################################
@@ -22,7 +25,10 @@
 ##################################################
 
 
+<<<<<<< HEAD
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
 import scrapy
 
 
@@ -35,15 +41,21 @@ class QuotesSpider(scrapy.Spider):
     def parse(self, response):
         for restaurant in response.css("a._15_ydu6b"):
 <<<<<<< HEAD
+<<<<<<< HEAD
             yield {
                 'name': restaurant.css("a._15_ydu6b::text").get(),
                 'name_array': restaurant.css("a._15_ydu6b::text").getall(),
 =======
+=======
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
             # There are options for minimal text formatting tools
             yield {
                 'name': restaurant.css("a._15_ydu6b::text").get(),
                 'name_array': restaurant.css("a._15_ydu6b::text").getall(),
                 'name_joined': ' '.join(restaurant.css("a._15_ydu6b::text").getall()),
+<<<<<<< HEAD
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
                 'url': restaurant.attrib['href']
             }

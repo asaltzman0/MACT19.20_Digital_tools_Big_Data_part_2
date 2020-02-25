@@ -4,9 +4,13 @@
 # This script corresponds to a "spider" component for the scrapy platform and
 # allows to extract different components from the tripadvisor web platform
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # b. The spider calls out and print html objects and the url separately
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
+=======
+# b. The spider calls out and print html objects and the url separately
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
 # Documentation about scrapy and the tutorial used to develop this script
 # visit: https://docs.scrapy.org/en/latest/intro/tutorial.html
 ##################################################
@@ -34,9 +38,16 @@ class QuotesSpider(scrapy.Spider):
     def parse(self, response):
         for restaurant in response.css("a._15_ydu6b"):
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
             # You can also print out the results using the terminal
 >>>>>>> 64e92099e9ffff4b40980bc3b184583b15f8dff7
             name = restaurant.get()
             url = restaurant.attrib['href']
             print(dict(name=name, url=url))
+=======
+            # You can also print out the results using the terminal
+            name = restaurant.get()
+            url = restaurant.attrib['href']
+            print(dict(name=name, url=url))
+>>>>>>> ded07d064c5aed9b711c2d26f88645de4a64ab57
