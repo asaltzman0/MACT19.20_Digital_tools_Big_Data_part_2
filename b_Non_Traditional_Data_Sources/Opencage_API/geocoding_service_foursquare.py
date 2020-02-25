@@ -24,16 +24,16 @@ import requests
 
 # url taken by the Foursquare API developers page -> Places API -> Venues -> Search for venues
 url = 'https://api.opencagedata.com/geocode/v1/json'
-key = 'replace_with_your_key'
+key = '3a73b755629649949eb0c0327125ea15'
 city = 'Barcelona, Catalonia'
 
 
 # input_addresses. This JSON file is the output coming from the Scrapy spider
-with open('./addresses/restaurants_bcn_short.json') as json_file:
+with open('./addresses/restaurants_bcn.json') as json_file:
     data = json.load(json_file)
 
 addresses = pd.DataFrame.from_dict(data=data)
-
+addresses = addresses.iloc[5001:6000]
 # We add three new columns to store main API outcomes
 addresses['address_formatted'] = ''
 addresses['lat'] = float('NaN')
