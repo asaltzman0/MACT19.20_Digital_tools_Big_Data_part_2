@@ -33,6 +33,7 @@ with open('./addresses/restaurants_bcn.json') as json_file:
     data = json.load(json_file)
 
 addresses = pd.DataFrame.from_dict(data=data)
+addresses = addresses[addresses['street'].notnull()]
 addresses = addresses.iloc[5001:6000]
 # We add three new columns to store main API outcomes
 addresses['address_formatted'] = ''

@@ -1,1 +1,1000 @@
 ,title,icon_prize,average_price,users_rate,number_reviews,street,address_formatted,lat,lon
+5011,La Bodeguita del Poble,,Dinner,2.5,,"Avinguda Marques de Comillas, 13","Catalonia, Spain",41.66667,2.0
+5012,Cafeparis,,Spanish,4.0,,Floridablanca 102,"Floridablanca, carrer de Floridablanca, 08914 Badalona, Spain",41.4408541,2.2255462
+5013,TinGana,,€20 - €30,3.5,,"Carrer D'Enric Granados, 149","Carrer d'Enric Granados, 149, Barcelona, Spain",41.3943389,2.1533741
+5014,Restaurante La Vida,,€8 - €120,3.0,,"Paseo joan de borbo, 31, Bajos","Catalonia, Spain",41.66667,2.0
+5015,Deleit Sushi Sants,,Sushi,3.0,,"Carrer de la Creu Coberta, 50","Carrer de la Creu Coberta, 8015 Barcelona, Spain",41.3750783,2.1482657
+5016,Restaurante Mango,,"Seafood, Spanish, Mediterranean, European",3.0,,Maritim,"Maritim, Passeig Marítim, 08380 Malgrat de Mar, Spain",41.6398658,2.7361958
+5017,Taverne Del Besbe Barcelone,,Gastropub,3.0,,Via laiteniana barcelona,"Barcelona, Catalonia, Spain",41.38879,2.15899
+5018,Adlivitum,,Spanish,2.5,,"Carrer Diputacio, 319","Carrer Diputacio, 08780 el Papiol, Spain",41.4399999,2.0118282
+5019,Restaurante La Granja Biologica,,,2.5,,"Sant Eusebi, 64","Carrer de Sant Eusebi, 08006 Barcelona, Spain",41.4017157,2.1496863
+5020,Cafe De La Radio,,,2.5,,"Carrer Casp, 45","Carrer de Casp, 08013 Barcelona, Spain",41.3974988,2.1815631
+5021,Panaria Ricart 24-26,,€3 - €6,3.0,,"Carrer Ricart 24-26, 08930, Sant Adrian de Besos. Barcelona","Besòs, Catalonia, Spain",41.421,2.20974
+5023,Vins & teka,,€3 - €22,4.5,,Diagonal Avenue 460,"Diagonal, Passeig de Gràcia, 08008 Barcelona, Spain",41.3955498,2.1604573
+5024,Panchito,,€15 - €30,3.0,,"C/ Espalter, 1","Carrer de Joaquim Espalter, 08870 Sitges, Spain",41.2364768,1.8057571
+5025,Ca La Yaya,,Spanish,3.5,,"Carrer De Valencia, 59","Carrer de València, 59, 08088 Barcelona, Spain",41.3826074,2.1495797
+5026,Mediterraneo Restaurante,,"Moroccan, Mediterranean",3.0,,Carrer Hopital 101 a,"Catalonia, Spain",41.66667,2.0
+5027,Santisimo Agave,,€10 - €20,3.0,,"Viladomat, 49","Viladomat, Plaça de l'Ajuntament, 08698 la Nou de Berguedà, Spain",42.1671835,1.884449
+5028,Atrapatapa Bar de Tapas,,Spanish,2.5,,"Urgell, 77","Urgell, Ronda de Sant Antoni, 08011 Barcelona, Spain",41.3789998,2.1630139
+5029,Divan,,Reservations,3.0,,Av. de Gaudi,"Avinguda de Gaudí, Barcelona, Spain",41.4070281,2.1744033
+5030,Don baco,,Spanish,3.0,,Calle Napoles 331,"Cal Xic Montesell, Vallgorguina, Catalonia, Spain",41.6540336,2.508359
+5031,Forn Colon,,"Breakfast, Lunch, Dinner",3.0,,"Carrer de Mallorca, 599","Carrer de Mallorca, 599, 08026 Barcelona, Spain",41.4116178,2.1860795
+5032,Pool & Beer,,"Bar, Pub",3.0,,Caspe 186,"Catalonia, Spain",41.66667,2.0
+5033,Historia Resto Lounge,,,2.0,,Rue de la Malga,"Catalonia, Spain",41.66667,2.0
+5034,Opium Cinema,,€20 - €42,2.5,,193 - 197 Paris,"carrer Paris, 08110 Montcada i Reixac, Spain",41.4815483,2.1895314
+5035,Jaleo,,€15 - €40,3.0,,Calle Tuset 5-11,"Carrer de Tuset, 08006 Barcelona, Spain",41.3956711,2.1523527
+5036,Bar Restaurante Entrepans,,€4 - €9,3.0,,"Calle Rosellon, 22","Catalonia, Spain",41.66667,2.0
+5037,Pans & Company,,€3 - €6,3.0,,"Rambla de Canaletes, 123","La Rambla - Font de Canaletes, La Rambla, 08001 Barcelona, Spain",41.3853035,2.1699586
+5038,Restaurante Hunter,,Spanish,3.0,,"Placa de Sant Josep Oriol, 4","Plaça de Sant Josep Oriol, Barcelona, Spain",41.3823388,2.1741475
+5039,Bar Versalles,,Spanish,3.0,,"Alfambra, 14","Alfambra, Carrer de Trias i Giró, 08034 Barcelona, Spain",41.3862381,2.1124486
+5040,Restaurante Hachi,,€10 - €15,4.5,,"Carrer del Bruc, 70","Carrer del Bruc, 70, 08923 Santa Coloma de Gramenet, Spain",41.4475787,2.2187685
+5041,Bonastre,,Cafe,3.0,,"Av. de Mistral, 10","Condonia.com, Avinguda de Mistral, 10, 08015 Barcelona, Spain",41.3775301,2.1588625
+5042,Pasta Nostra - Villarroel,,€30 - €50,3.0,,Villarroel 189,"La Villarroel, Carrer de Villarroel, 87, 08011 Barcelona, Spain",41.3845152,2.1573507
+5043,Petits Plaers,,Spanish,2.0,,130 Lope De Vega,"Catalonia, Spain",41.66667,2.0
+5044,Domino's Pizza,,"Pizza, Fast Food",3.0,,"Carrer Sepulveda, 38","Carrer de Sepúlveda, 08015 Barcelona, Spain",41.3803469,2.1586871
+5045,Tra.Llers,,"Spanish, Mediterranean, European",3.0,,"Carrer Tallers, 39-41","Carrer Tallers, 08570 Torelló, Spain",42.0489229,2.2741805
+5046,Restaurante BJ,,"Breakfast, Lunch, Dinner, Brunch, Drinks",3.0,,"Llull, 13","Carrer de Llull, 13, 08005 Barcelona, Spain",41.3912829,2.1887254
+5047,Chun,,"Chinese, Japanese, Sushi, Asian",3.0,,Carrer Buenos Aires 12,"Carrer Buenos Aires, 08395 Sant Pol de Mar, Spain",41.6030343,2.6242583
+5048,Black Velvet Bar,,€3 - €30,4.5,,Nou de la Rambla 130,"Nou de la Rambla, Avinguda del Paral·lel, 08001 Barcelona, Spain",41.3750759,2.1702821
+5049,Bolet - Cuina Feta,,,3.0,,"Passeig Reina Elisenda de Montcada, 10","Montcada i Reixac, Catalonia, Spain",41.48333,2.18333
+5050,Pans & Company,,Fast Food,3.0,,"Travessera de gracia, 29","Farmàcia Santaló, Travessera de Gràcia, 23, 29, 08036 Barcelona, Spain",41.394748,2.1468139
+5051,Fish Corner,,"Seafood, Mediterranean, Spanish",3.0,,Centro Comercial Les Glories,"Glòries, Catalonia, Spain",41.4031,2.18699
+5052,Wan Li Yuan,,Chinese,3.0,,122 Carrer de Viladomat,"Carrer de Viladomat, 122, 08015 Barcelona, Spain",41.3809229,2.1560693
+5053,Restaurante Campo,,Chinese,2.0,,"Londres, 22","Londres, Carrer de Mallorca, 532, 8025 Barcelona, Spain",41.4083463,2.1821202
+5054,Burger King,,Fast Food,3.0,,"Calle Salvador Espriu, 61","Carrer d'en Salvador Espriu, 08461 Santa Maria de Palautordera, Spain",41.6941754,2.4339404
+5055,Atrium,,"Mediterranean, European, Spanish",3.0,,"Rambla de Poblenou, 142","Rambla del Poblenou, 08018 Barcelona, Spain",41.403432,2.1980044
+5056,Meat Corner,,"Mediterranean, European, Spanish",3.0,,"Avinguda Diagonal, 208","Glòries Multicines, Avinguda Diagonal, 208, 08018 Barcelona, Spain",41.4053714,2.1928801
+5057,El Chiringuio Group Barcelona Beach Playa de Sant Sebastian,,€10 - €30,3.0,,Ronda litoral,"Ronda Litoral, 08080 Barcelona, Spain",41.33944,2.1173709
+5058,Atame,,,3.0,,"Carrer del Consell de Cent, 257","Atame, Carrer del Consell de Cent, 257, 08011 Barcelona, Spain",41.3869204,2.1599135
+5059,Bodega Del Fuegos,,€3 - €100,4.5,,"Vilardell, n0 3","Vilardell, la Quar, Catalonia, Spain",42.0941893,1.9977589
+5060,Sinner,,"Mediterranean, Spanish",3.0,,C/ Tuset 3,"Carrer de Tuset, Enerside Energy, 3, 08006 Barcelona, Spain",41.3955245,2.1521109
+5061,PaTapas,,"Mediterranean, Spanish",3.0,,Pl San Josep Oriel 2,"Catalonia, Spain",41.66667,2.0
+5062,La Fitora,,€30 - €50,3.0,,"Moll de Gregal, 18 - 19","Moll de Gregal, 08071 Barcelona, Spain",41.3881704,2.2008832
+5063,Cal Tony,,"Breakfast, Lunch, Dinner",2.0,,Carrer De Castanys 25,"Catalonia, Spain",41.66667,2.0
+5064,Viridi,,€7 - €10,3.0,,"Calle Galileo, 337","Galileo, Carrer d'Aribau, 152, 08036 Barcelona, Spain",41.3921399,2.1545275
+5065,Paris 182 Pizza House,,,3.0,,"Carrer de Paris, 182","Carrer de París, 182, 08036 Barcelona, Spain",41.3934231,2.1533225
+5066,Boca Loco,,,3.0,,13 av. Francesc Ferre i Guardia,"Catalonia, Spain",41.66667,2.0
+5067,Al-legra,,"Wine Bar, Spanish",4.0,,"192, Ronda Del Guinardo","Ronda del Guinardó, 08025 Barcelona, Spain",41.4122063,2.1672319
+5068,La Base by Farre,,"Seafood, Mediterranean, Spanish, European",3.0,,Platja Mar Bella. Avda Del Litoral,"Catalonia, Spain",41.66667,2.0
+5069,Rodica's Restaurant & Bar,,,2.5,,"Carrer De Sardenya, 551","Carrer de Sardenya, 08025 Barcelona, Spain",41.4085761,2.1664852
+5070,Restaurante La Cartuja,,"Mediterranean, European, Spanish",3.0,,"Calle Larrard, 37","Carrer de Larrard, 08024 Barcelona, Spain",41.4123123,2.1539978
+5071,+Bernat,,Mediterranean,3.5,,"Buenos Aires 6-8, 08029","08029, Spain",41.3888,2.159
+5072,La Muralla,,Spanish,2.5,,"Carrer d'Avinyo, 19","La Muralla, Carrer d'Avinyó, 19, 08002 Barcelona, Spain",41.3810423,2.1770783
+5073,Gran Epoca,,"Lunch, Dinner",2.5,,"Calle Sepulveda, 94","Carrer de Sepúlveda, 08015 Barcelona, Spain",41.3803469,2.1586871
+5074,Chiribito,,"Bar, Pub",3.0,,Passeig de Fabra i Puig 264,"Passeig de Fabra i Puig, 08031 Barcelona, Spain",41.4303053,2.1755374
+5075,Alexandra,,,2.5,,"Diagonal, 287","Diagonal, Passeig de Gràcia, 08008 Barcelona, Spain",41.3955498,2.1604573
+5076,Frankfurts Leo Boeck,,€2 - €6,2.5,,"Calle Alfambra , 20","Alfambra, Carrer de Trias i Giró, 08034 Barcelona, Spain",41.3862381,2.1124486
+5077,bar cafeteria carlos 1,,Spanish,3.0,,C/ Marina 168,"08729 Castellet i la Gornal, Spain",41.25977,1.6430355
+5078,Burger Bus BCN,,€8 - €15,3.0,,"Moll de mestral, 37-38","Moll de Mestral, 08071 Barcelona, Spain",41.3872066,2.1985088
+5079,Fragua Grill,,€4 - €22,3.0,,15 Rambla del Raval,"Rambla del Raval, 08001 Barcelona, Spain",41.3776776,2.1703374
+5080,Bar - Restaurante Fernando,,Spanish,3.0,,"Carrer de Ferran, 31","Cafe Hostal Fernando, Carrer de Ferran, 31, 08002 Barcelona, Spain",41.3814358,2.1757307
+5081,Bar Restaurant Bauma,,"Seating, Table Service",3.0,,"Roger de Lluria, 124","Roger De Lluria, Carrer de Roger de Llúria, 08010 Barcelona, Spain",41.3910629,2.1718498
+5082,Xarcuteria Garciz,,Spanish,2.5,,"Escocia, 134","Escòcia, Carrer d'Escòcia, 08031 Barcelona, Spain",41.4286178,2.1794363
+5083,El Fornet,,"Breakfast, Lunch, Dinner",3.0,,"Carrer Pujades, 362","Carrer Pujades, 08783 Masquefa, Spain",41.5043137,1.8092083
+5084,restaurante La Colla,,€4 - €12,2.5,,Carre de L'art,"Catalonia, Spain",41.66667,2.0
+5085,Rodilla,,"Bar, Cafe, European, Spanish, Pub, Central European",2.5,,Carrer Pelai 11,"Carrer Pelai, 08397 Pineda de Mar, Spain",41.6199384,2.6811168
+5086,Central Cafe,,€5 - €10,3.0,,"Carrer del Doctor Fleming, 19","Central Cafè, Carrer del Doctor Fleming, 19, 08017 Barcelona, Spain",41.3939234,2.1347193
+5087,22 alf@,,€10 - €35,3.0,,Badajoz 115,"Carrer de Badajoz, 115, 08018 Barcelona, Spain",41.4000572,2.1933823
+5088,El Picot,,,2.5,,"Carretera de l'Esglesia, 92","Carretera de l'Església, 08196 Barcelona, Spain",41.4179023,2.1053261
+5089,Vatua l'Olla,,"Mediterranean, Spanish, Gastropub",2.5,,C/Parlament 26 Local 2,"Carrer del Parlament, 08015 Barcelona, Spain",41.3758931,2.161805
+5090,Pans & Company Horta,,Mediterranean,3.0,,"C/ Tajo, 37-43","Carrer del Tajo, 08043 Barcelona, Spain",41.4295536,2.161488
+5091,El petit Buddha,,Spanish,2.5,,Av onze de setembre 265,"Avinguda Onze de Setembre, 08830 Sant Boi de Llobregat, Spain",41.3386284,2.0414033
+5092,Taifeng,,"Chinese, Sushi, Asian, Japanese",3.0,,"Calle Muntaner, 111","Muntaner, Via Augusta, 08021 Barcelona, Spain",41.3986188,2.1428749
+5093,Centric Cafe,,"Bar, Cafe, Fast Food, Pub",3.0,,Plaza del Sol 14,"Plaça del Sol, Can Feu, Sabadell, Catalonia, Spain",41.5402968,2.0969337
+5094,La Rambla Bar Restaurant,,,2.5,,"Rambla de Prim, 19","Rambla de Prim, 19, 08019 Barcelona, Spain",41.4116133,2.218234
+5095,La Bona Cuina,,€15 - €40,2.0,,12 Carrer Pietat,"Carrer Pietat, 08303 Mataró, Spain",41.5485768,2.4339469
+5096,La Forneria,,Cafe,3.0,,"carrer Angli, 1","Eurostar Anglí, Carrer d'Anglí, 60, 08017 Barcelona, Spain",41.4031218,2.1231758
+5097,Las Torres,,European,3.0,,Calle Tarragona 68,"Carrer Tarragona, 08303 Mataró, Spain",41.5439848,2.4245662
+5099,Rotana Barcelona,,€5 - €30,2.0,,C/ Moll Del Mestral No 34-37,"Moll de Mestral, 08071 Barcelona, Spain",41.3872066,2.1985088
+5100,Estraperlo Barceloneta,,"Mediterranean, Catalan",2.5,,"Carrer Atlantida, 65","carrer de l'Atlàntida, 08923 Badalona, Spain",41.4439415,2.2190018
+5101,La encina,,€2 - €100,2.5,,Ronda Sant Pere 72,"Ronda Sant Pere, Plaça de Catalunya, 08010 Barcelona, Spain",41.3877901,2.1705608
+5102,Bar Cafereria Hot Valencia Frankfurt,,,2.0,,Avingua Meridiana 137,"Catalonia, Spain",41.66667,2.0
+5103,Gourmet O'vesuvio,,€2 - €70,4.5,,Avenida Artur Carbonell,"Catalonia, Spain",41.66667,2.0
+5104,Tabernas Gallegas La Maquinista,,"Seafood, Spanish",3.0,,Passeig De L'Havana 1,"Passeig de l'Havana, 08195 Sant Cugat del Vallès, Spain",41.4634476,2.0628799
+5105,Romanpizza,,,2.5,,"Roses, 59","Carrer del Torrent de les Roses, 59, 08034 Barcelona, Spain",41.3894703,2.1035853
+5106,Enrich,,Mediterranean,2.5,,Rossello 54,"Forn Enrich, Carrer del Rosselló, 54, 08029 Barcelona, Spain",41.3859711,2.1477293
+5107,Franfurt Berliner,,Cafe,2.5,,"Calle de las Navas de Tolosa, 296","Carrer de las Navas de Tolosa, 296, 08027 Barcelona, Spain",41.4161319,2.1859347
+5108,Joali,,"Bar, Spanish, Pub",3.0,,Placa Del Sol 7,"Plaça del Sol, Can Feu, Sabadell, Catalonia, Spain",41.5402968,2.0969337
+5109,Chiringuito Sahara Beach Bar,,,3.0,,Playa San Meguil,"Catalonia, Spain",41.66667,2.0
+5110,El Petit Buda,,Thai,2.5,,"Carrer Paris, 38","Carrer París, Calaf, Spain",41.7345229,1.5129803
+5111,Bar Colombia,,"Breakfast, Lunch, Dinner",2.5,,"Rambla de Fabra I Puig, 1","Rambla de Fabra i Puig, 08030 Barcelona, Spain",41.4301798,2.1879978
+5112,4 Latas Granados,,"Mediterranean, Spanish, European, Catalan",3.0,,"Carrer d'Enric Granados, 56,","Carrer d'Enric Granados, 56, 08830 Sant Boi de Llobregat, Spain",41.3361129,2.0431159
+5113,Madame Magdalena Boulangerie,,"Italian, French, Cafe, Spanish, Eastern European, Ukrainian",2.0,,"calle Entenca, 15","Entença, Carrer del Rosselló, 08936 Barcelona, Spain",41.3839818,2.1449598
+5114,Original's,,,2.5,,Balmes,"Rec dels Escalars de les Balmes, Tavertet, Catalonia, Spain",41.9930138,2.3968264
+5115,La Bodegeta,,"Bar, Spanish",2.5,,"Comte de Santa Clara, 25","Catalonia, Spain",41.66667,2.0
+5116,Restaurante Parc Guell,,Spanish,3.0,,C/ Larrad 59,"Catalonia, Spain",41.66667,2.0
+5117,Panchito Restaurant,,Mexican,3.0,,"Carrer Amigo, 57","Amigó, Carrer de Tamarit, 08011 Barcelona, Spain",41.3794054,2.1617499
+5118,Restaurante Kingyo,,€12 - €30,3.0,,"Carrer de Cartella, 194","Carrer de Cartellà, 08031 Barcelona, Spain",41.4278096,2.1722081
+5119,Restaurante Rosi Hu,,Chinese,2.0,,"Viladomat, 73","Viladomat, Plaça de l'Ajuntament, 08698 la Nou de Berguedà, Spain",42.1671835,1.884449
+5120,Cerveseria Pepe 2,,"Mediterranean, Spanish",3.0,,Avinguda Del Paral. Lel 74,"Catalonia, Spain",41.66667,2.0
+5121,Braseria La Placa,,"Spanish, Pub, Gastropub",3.0,,Passeig zona Franca 174,"Ronda Litoral / (industrial) Zona Franca;(harbour) Cargo Nord; Passeig de Zona Franca (Fira), 08038 Barcelona, Spain",41.3465456,2.1404504
+5122,Glass 23,,Dinner,4.0,,Avenida Sarria 23,"Av Sarrià, Carrer de la Caravel·la La Niña, 08021 Barcelona, Spain",41.3914151,2.1327646
+5123,La Tartana,,"Mediterranean, Spanish",3.0,,Carrer de Juan Guell 23,"Catalonia, Spain",41.66667,2.0
+5124,El Chiringuito Group Natura Beach,,€10 - €30,2.0,,Ronda litoral,"Ronda Litoral, 08080 Barcelona, Spain",41.33944,2.1173709
+5125,La Tasca D'or,,,2.5,,"Calle Bailen, 146","Carrer Bailen, 08402 la Roca del Vallès, Spain",41.6030546,2.3012683
+5126,BocaLoca,,Spanish,2.0,,Calle Puigcerda 225,"Carrer Puigcerdá, 08110 Montcada i Reixac, Spain",41.495243,2.1838203
+5127,Colmado Murria,,Deli,5.0,,"Carrer de Roger de Lluria, 85","Colmado Múrria, Carrer de Roger de Llúria, 85, 080009 Barcelona, Spain",41.3947754,2.1664739
+5128,Caruso,,Italian,3.0,,La rambla 96,"La Rambla, 96, 80002 Barcelona, Spain",41.3823568,2.1724339
+5129,Bocpertot,,"Seating, Wheelchair Accessible",3.0,,"Paseo La Rambla, 56","Tavertet, Catalonia, Spain",42.0135355,2.425772
+5130,Pica Pica Picadito,,Spanish,2.5,,Paseo Sant Antoni 25,"Sant Antoni, el Pujol Nou, Artés, Catalonia, Spain",41.7984872,1.9421318
+5131,Noubar,,€7 - €10,2.0,,"Santapau, 23","Escola Dolors Monserdà-Santapau, Carrer de Vidal i Quadras, 08017 Barcelona, Spain",41.4051617,2.1150647
+5132,Portal del Mar,,Mediterranean,3.0,,Dr. Trueta 118,"Carrer del Doctor Trueta, 08780 el Papiol, Spain",41.4360978,2.007259
+5133,Pans & Company,,€3 - €7,2.0,,"Passeig d'Andreu Nin, 51","El Corte Inglés (Can Dragó), Passeig d'Andreu Nin, 51, 08016 Barcelona, Spain",41.4362336,2.1814176
+5134,Goiko - Carrer Independencia 339,,American,3.0,,Carrer Independencia 339,"Carrer Independencia, 08290 Cerdanyola del Vallès, Spain",41.4877858,2.1335713
+5135,Liceu,,,2.0,,La Rambla 84,"Tavertet, Catalonia, Spain",42.0135355,2.425772
+5136,Restaurante Qu-Qu,,€10 - €15,3.0,,"Passeig de Gracia, 24","Qu Qu, Passeig de Gràcia, 24, 08007 Barcelona, Spain",41.3901575,2.1678809
+5137,Gaft,,"Seafood, Mediterranean, European, Spanish",3.0,,Avenida Drassanes 6-8,"Drassanes, Carrer del Portal de Santa Madrona, 80002 Barcelona, Spain",41.3765687,2.1755547
+5138,Frankfurt Diagonal,,"American, German, Bar, Spanish",3.0,,Avinguda Diagonal 186,"Avinguda Diagonal, 08034 Barcelona, Spain",41.3849398,2.113976
+5139,La Crema,,"Spanish, Mediterranean",3.0,,"Dante Alighieri, 77","Carrer de Dante Alighieri, 08032 Barcelona, Spain",41.4278629,2.1586862
+5140,Tapas 24 Camp Nou,,€15 - €30,3.0,,"Calle Aristides Maillol, 12","Carrer Aristides Maillol, Mataró, Spain",41.5546443,2.4422916
+5141,Mepiace Vall Parc Restaurant,,"Mediterranean, Spanish",3.0,,"Carretera De L'Arrabassada, 107-127","08775 Cabrera d'Anoia, Spain",41.4806832,1.7300148
+5142,Ginos,,"Italian, Pizza",3.0,,"Avinguda Diagonal, 3","Foster’s Hollywood, Avinguda Diagonal, 3, 08021 Barcelona, Spain",41.3921,2.14477
+5143,El Cafe D'en Victor,,,3.0,,12 Tapineria,"El Cafè D'en Victor, Carrer de la Tapineria, 12, 08002 Barcelona, Spain",41.3847931,2.1767008
+5144,Con K,,,2.5,,Banys Vells 19,"Carrer dels Banys Vells, CP 08003 Barcelona, Spain",41.3842781,2.181061
+5145,MasQMenos Diagonal Mar,,€10 - €30,2.5,,"Av. Diagonal, 3","Foster’s Hollywood, Avinguda Diagonal, 3, 08021 Barcelona, Spain",41.3921,2.14477
+5146,Bar - Restaurante Garganta la Olla,,,2.5,,Calle Hondures 78,"Catalonia, Spain",41.66667,2.0
+5147,Pati Blau,,€9 - €25,3.5,,Carre de Jordi Girona 14,"Catalonia, Spain",41.66667,2.0
+5148,Sushiya 1 Uno,,"Japanese, Sushi, Asian",3.0,,Calle Quintana 4,"Sushi Ya, Carrer d'en Quintana, 4, 80002 Barcelona, Spain",41.3810629,2.174489
+5149,Burger King,,Fast Food,3.0,,Carrer Arago 259,"Carrer Aragó, 08870 Sitges, Spain",41.2387213,1.8155559
+5150,Vinals 1906,,€6 - €20,2.0,,"Avinguda Diagonal, 557","Uno De 50, Avinguda Diagonal, 557, 08029 Barcelona, Spain",41.3989776,2.1695371
+5151,Evinia,,Spanish,2.5,,Via Laietana 23,"Cubedo, Via Laietana, 23, CP 08003 Barcelona, Spain",41.3837108,2.1788357
+5152,CERVECERIA-RESTAURANTE SANTANA,,"Mediterranean, Spanish, Mexican",4.5,,"Peniscola, 27","Carrer de Peníscola, 27, 08033 Barcelona, Spain",41.4533968,2.1902273
+5154,El nou tipi tapa,,"Spanish, Cafe",4.0,,Paseo de maragall 408,"Maragall, Carrer de Prat d'en Roquer, 08031 Barcelona, Spain",41.4252173,2.1763967
+5155,Bar Lorenzo,,"Mediterranean, Spanish, Catalan",2.0,,"Passeig de la Bonanova 105, 08017 Barcelona","Morro Fi, Passeig de la Bonanova, 105, 08034 Barcelona, Spain",41.4012224,2.1240569
+5156,TGB The Good Burger,,"Fast Food, American",3.0,,Carrer Villarroel 223,"La Villarroel, Carrer de Villarroel, 87, 08011 Barcelona, Spain",41.3845152,2.1573507
+5157,Restaurante Afiparc,,,3.0,,Carrer d'Olot,"Carrer d'Olot, 08023 Barcelona, Spain",41.4131962,2.1527966
+5158,Tapa Tapa,,Spanish,2.0,,"Avinguda Diagonal, N. 208","Avinguda Diagonal, 08034 Barcelona, Spain",41.3849398,2.113976
+5159,La Bottega di Lapio,,"Italian, Pizza, Fast Food, Mediterranean, Neapolitan, Campania, Southern-Italian",2.0,,"Carrer de Torrijos, 53","La Bottega di Lapio, Carrer de Torrijos, 53, 08012 Barcelona, Spain",41.4045731,2.1575966
+5160,Kyoka,,"Japanese, Sushi, Asian, Fusion",3.0,,"Avinguda Diagonal, 168","Avinguda Diagonal, 168, 08018 Barcelona, Spain",41.4057343,2.1957052
+5161,Drugstore Restaurant,,,2.5,,"C/ Tuset, 19-21","Carrer de Tuset, 08006 Barcelona, Spain",41.3956711,2.1523527
+5162,Peccato Di Gola,,"Pizza, Italian",3.0,,"Carrer Joaquin Costa, 18","Catalonia, Spain",41.66667,2.0
+5163,El Celler del Nou Priorat,,€10 - €25,3.5,,"Vallespir, 19","Edifici Octàvia, Carrer de Vallespir, 19, 08190 Sant Cugat del Vallès, Spain",41.4797311,2.0683632
+5164,Bar La Tasqueta de Can Felipa,,Spanish,3.0,,"Pallars, 243","08586 Perafita, Spain",42.0553441,2.108565
+5165,Canas y Tapas,,"Mediterranean, European, Spanish",3.0,,"208, Avinguda Diagonal","Glòries Multicines, Avinguda Diagonal, 208, 08018 Barcelona, Spain",41.4053714,2.1928801
+5166,Ginos,,Italian,3.0,,"Carrer De Potosi, 2","Carrer de Potosí, 2, 08030 Barcelona, Spain",41.4427541,2.2002297
+5167,Arabian Nights Restaurant,,€2 - €30,4.5,,"Moll de Gregal Port Olimpic, 26","Olympic Port, Catalonia, Spain",41.387,2.20029
+5168,Restaurant La Vid,,"Spanish, Mediterranean",3.0,,Carrer Foc 44,"Foc, Passeig de la Zona Franca, 08038 Barcelona, Spain",41.3558512,2.1421622
+5169,La Fonda Del Camino,,"Colombian, South American",3.0,,"C/ 26 de Gener, 26","08279 Avinyó, Spain",41.8699234,1.9934787
+5170,Frank Burg & Bikes,,,4.0,,Sardenya 386,"Sardenya, Carrer de Sardenya, 08088 Barcelona, Spain",41.4036868,2.1730622
+5171,Peix Fresc,,Mediterranean,2.0,,"Parlament, 46","Carrer del Parlament, 46, 08001 Barcelona, Spain",41.3770416,2.163835
+5172,La Cordial,,"Seating, Wheelchair Accessible, Serves Alcohol, Table Service",3.0,,Enric Granados 1,"Av. Rius i Taulet, Enric Granados, Avinguda de Rius i Taulet, 08172 Sant Cugat del Vallès, Spain",41.4720436,2.0814069
+5173,KFC Meridiana,,Fast Food,3.0,,Avenida Meridiana 348,"Avinguda Meridiana, 08026 Barcelona, Spain",41.4121681,2.1868058
+5174,Tapas i Apat,,,2.5,,"Las Ramblas, 15","Hostafrancs, Barcelona, Catalonia, Spain",41.3750877,2.1429334
+5175,Traga tio,,International,4.5,,Teodor llorente 5,"Passatge de Teodor Llorente, 08205 Sabadell, Spain",41.5473189,2.0946462
+5176,Central Cafe (Calvet),,"Cafe, Mediterranean, European, Spanish, Healthy",4.0,,"Calle Calvet, 1","Calvet, Carrer del Tenor Viñas, 12, 08021 Barcelona, Spain",41.3950395,2.142893
+5177,Restaurante Marinero,,"Lunch, Dinner",2.5,,"C/Pau Claris, 189","Pau Claris, Gran Via de les Corts Catalanes, 08007 Barcelona, Spain",41.3897269,2.1688642
+5178,Casa de los Navarros,,"Mediterranean, Spanish",3.0,,"Maragall, 375","Maragall, Carrer de Prat d'en Roquer, 08031 Barcelona, Spain",41.4252173,2.1763967
+5179,Panchito Gracia,,€3 - €10,3.0,,"Calle Bruniquer, 33-35","Bruniquer, Carrer de Bruniquer, 08037 BCN Barcelona, Spain",41.4056088,2.1621684
+5180,El Meu Poble,,Reservations,2.5,,"Avinguda Del Princep D'asturies, 29","Avinguda de la Riera de Cassoles, 8 Barcelona, Spain",41.4058277,2.1500512
+5181,Cerveceria Pepe,,Spanish,2.5,,Av del Paralelo 75,"Catalonia, Spain",41.66667,2.0
+5182,El Rincon Peruano,,,2.5,,"Carrer d'Entenca, 146","Carrer d'Entença, 146, 8015 Barcelona, Spain",41.3816959,2.148235
+5183,Medulio,,,2.5,,"Princep D""asturies, 6","Avinguda de la Riera de Cassoles, 08006 Barcelona, Spain",41.4037891,2.1500181
+5184,CAFE DORE Mandri,,"American, Spanish",3.5,,"Mandri, 36","Carrer de Mandri, 08022 Barcelona, Spain",41.4020588,2.1351318
+5185,Almina Mar,,"Mediterranean, Spanish",2.5,,"Carrer de Sant Antoni Maria Claret, 132","Almina Mar, Carrer de Sant Antoni Maria Claret, 132-136, 08025 Barcelona, Spain",41.4080517,2.1703488
+5186,Braseria Patio Maragall,,"Barbecue, Spanish",2.5,,Calle Ramon Albo 5,"Carrer de Ramon Albó, 08031 Barcelona, Spain",41.4261921,2.1772852
+5187,Bar Restaurant Coto Alto,,Cafe,2.5,,"Passeig del Taulat, 232","Passeig del Taulat, 08019 Barcelona, Spain",41.4093534,2.2175438
+5188,Hiper Bocata,,"Fast Food, Spanish",3.0,,Via Julia 48-54,"Via Júlia, 08042 Barcelona, Spain",41.4459725,2.1797468
+5189,Yun Lai,,Chinese,2.5,,"Placa Maragall, 20","Plaça Maragall, Berga, Spain",42.1043722,1.8452274
+5190,Downtown Restaurant,,€10 - €30,3.0,,Carrer de n'Amargos 13,"Catalonia, Spain",41.66667,2.0
+5191,Heladeria Mozart,,,2.0,,"Carrer de Moscou, 26","Carrer de Moscou, 08071 Barcelona, Spain",41.3870098,2.1938596
+5192,Alta Galicia,,€8 - €28,3.0,,93/95 Rambla Del Poblenou,"Rambla del Poblenou, 93-95, 08005 Barcelona, Spain",41.402454,2.1991883
+5193,Cafeteria Cervesseria Belles Arts II,,Spanish,2.5,,288 Travessera de les Corts,"Belles Arts II, Travessera de les Corts, 288, 08029 Barcelona, Spain",41.387298,2.1361977
+5194,Restaurante Yague,,Spanish,3.0,,"Girona, 13","Girona, Catalonia Square, Barcelona, Spain",41.3870006,2.169377
+5195,Cafe Escac,,"Bar, Mediterranean, European, Spanish",3.0,,"Placa Del Bonsucces, 5","Saula, Plaça del Bonsuccés, 5, 08001 Barcelona, Spain",41.3837802,2.1695665
+5196,Bodegon del Norte -Marzan,,"Spanish, Mediterranean",3.0,,"Valencia, 207","Valencia, Carrer de València, 08291 Ripollet, Spain",41.4943576,2.1695649
+5197,BAR RESTAURANT EL TAJO,,"Mediterranean, Spanish, Diner",1.0,,"Carrer Londres, 63","Carrer Londres, 08400 Granollers, Spain",41.5965593,2.2792652
+5198,La Fusion,,€10 - €25,2.0,,"Calle Santander, 82","Cal Xic Montesell, Vallgorguina, Catalonia, Spain",41.6558344,2.5069667
+5199,Salzburg C.C. Heron City,,Fast Food,3.0,,"Avinguda de Rio de Janeiro, 42","McDonald's, Avinguda de Rio de Janeiro, 42, 08016 Barcelona, Spain",41.4354928,2.1806468
+5200,Al Solete,,,2.0,,"Passeig de la Bonanova, 109","Passeig de la Bonanova, 08022 Barcelona, Spain",41.406455,2.1331198
+5201,Can Canyes,,"Breakfast, Lunch, Dinner",2.5,,"Carrer de Llull, 396","Carrer de Llull, 396, 08019 Barcelona, Spain",41.411409,2.2165986
+5202,Domino's Pizza,,"Pizza, Fast Food",3.0,,"Avenida Madrid, 118","Avenida Madrid, Carrer de Lluçà, 08014 Barcelona, Spain",41.380869,2.1312591
+5203,Kentucky Fried Chicken,,Fast Food,3.0,,"Francesc Macia, 8","General Optica, Francesc Macià, 8;9, 08021 Barcelona, Spain",41.3922,2.14486
+5204,Restaurant Cibreiro,,Mediterranean,3.0,,"Carrer Petrarca, 14-16","Carrer de Petrarca, 08043 Barcelona, Spain",41.4296207,2.1661527
+5205,Yoshino,,"Japanese, Sushi, Asian, Chinese",2.5,,Carrer Mallorca 105,"Carrer Mallorca, 08110 Montcada i Reixac, Spain",41.4936096,2.1863173
+5206,Forn de Pa Sta Rita,,,1.0,,"Carrer Gran de Gracia, 214","Carrer Gran de Gràcia, 214, 08012 Barcelona, Spain",41.4040854,2.1518776
+5207,El Raconet De La Silvia,,€9 - €25,1.0,,Travessera de Les Corts 132,"Travessera de les Corts, 08021 Barcelona, Spain",41.3891656,2.1391362
+5208,Pedregal Bar-Restaurant,,,2.5,,"Carrer Diputacio, 270","Carrer Diputacio, 08780 el Papiol, Spain",41.4399999,2.0118282
+5209,El Raconet del Moli,,"Breakfast, Lunch, Dinner",1.0,,"Carrer Pere Calders, 14","Carrer Pere Calders, 08512 les Masies de Voltregà, Spain",42.0082403,2.242291
+5210,Station Barcelona,,Mediterranean,2.5,,Marques d l'Argentera 6,"Avinguda del Marquès de l'Argentera, 14 - Avinguda del Marques Argentera 19, CP 08003 Barcelona, Spain",41.3850889,2.1852146
+5211,Dar El Kamar,,Dinner,3.0,,"Gran Via De Les Corts Catalanes, 633","Dar el Kamar, Gran Via de les Corts Catalanes, 633, 080009 Barcelona, Spain",41.391455,2.1705577
+5212,De Tapas,,€14 - €27,3.0,,C/ Marina 22,"08729 Castellet i la Gornal, Spain",41.25977,1.6430355
+5213,La Reina del Raval,,"Mediterranean, Spanish, European",3.0,,Rambla del Raval 3,"Rambla del Raval, Barcelona, Spain",41.3786363,2.1694027
+5214,Santagloria,,Cafe,2.0,,"Calle de Ganduxer, 8","Carrer de Ganduxer, 08022 Barcelona, Spain",41.4046843,2.1300311
+5215,Paso de Agua,,€10 - €39,4.5,,Calle La Maquinista No 13,"Catalonia, Spain",41.66667,2.0
+5216,Meson Rincon de Galicia,,Spanish,3.0,,"Portal Nou, 61","el Portal, Carrer Nou, 08540 Centelles, Spain",41.798064,2.2183227
+5217,Farga,,"Breakfast, Brunch",3.0,,Corcega 317,"Corsican Mouflon, Plaça de Joan Fiveller, Barcelona, Spain",41.3859039,2.1890049
+5218,Jin Du,,"Chinese, Spanish, Asian",2.5,,C/ Gran Via 758,"Gran Via, 08206 Sabadell, Spain",41.5610724,2.1013811
+5219,La llavor d'Isis,,"Spanish, Mediterranean",3.0,,Pl. Major 12,"Plaça Major, Cal Cominçà, Berga, Catalonia, Spain",42.0941638,1.8343023
+5220,Il pomo d'oro,,"Italian, Pizza, Mediterranean",3.0,,De Les Corts Catalanes 618,"Catalonia, Spain",41.66667,2.0
+5221,Restaurante Rincon Manchego,,Mediterranean,2.5,,Calle Pintor Tapiro 8,"Carrer Pintor Tapiró, 08903 l'Hospitalet de Llobregat, Spain",41.3777596,2.1186999
+5222,210bar carrer casanova Barcelone,,"Bar, Pub",1.0,,210 Bar,"210, T1 Airport exit, 08820 el Prat de Llobregat, Spain",41.2916683,2.0720517
+5223,Foster's Hollywood,,American,2.5,,C/Passeig De Potosi 2,"Catalonia, Spain",41.66667,2.0
+5224,Jaipur Palace Indian Restaurant,,Indian,2.5,,"C Mexic, 17","Mexic, 08320 el Masnou, Spain",41.4837612,2.3278275
+5225,Zen Sushi creativo,,"Japanese, Sushi, Asian",3.0,,"Calle Villarroel 220,08036","08036, Spain",41.3888,2.159
+5226,Bar Anton,,Spanish,2.0,,"Carrer de Valencia, 453","Bar Anton, Carrer de València, 453, 08088 Barcelona, Spain",41.4031882,2.1770536
+5227,Suite 191,,"European, Spanish",2.5,,Aribau 191,"Aribau, 08204 Sabadell, Spain",41.5283818,2.1105725
+5228,La Vespa Panaderia Degustacion,,"Cafe, Spanish",2.0,,Carrer del Consell de Cent 456,"Carrer del Consell de Cent, 456, 08007 Barcelona, Spain",41.3988059,2.1761685
+5229,Edelweiss,,Japanese,1.0,,"Carrer de la Granada del Penedes, 19","Carrer de la Granada del Penedès, 08006 Barcelona, Spain",41.3969659,2.1527906
+5230,Burr & Taco,,Mexican,1.0,,Calle Boters Number 15,"Carrer Boters, 08750 Molins de Rei, Spain",41.41273,2.01667
+5231,Can Tomaquet,,"Mediterranean, Spanish, Contemporary",3.0,,"Placa d'Orfila, 12","Plaça d'Orfila, Passeig de Torras i Bages, 08030 Barcelona, Spain",41.436003,2.1910264
+5232,Foster's Hollywood,,"Lunch, Dinner",3.0,,"Avda. Diagonal, 3","Foster’s Hollywood, Avinguda Diagonal, 3, 08021 Barcelona, Spain",41.3921,2.14477
+5233,Gala Restaurant,,€6 - €28,3.0,,Carrer de Joan Torras 26,"Carrer de Joan Torras, 26, 08030 Barcelona, Spain",41.4376029,2.1907914
+5234,Garbi Snack-Bar,,Spanish,3.5,,470 Gran Via,"Gran Via, 08206 Sabadell, Spain",41.5610724,2.1013811
+5235,izan Corner,,€5 - €25,5.0,,"Carrer de la Cerdanya, 3. Rubi","Carrer de la Cerdanya, 08777 Font-rubí, Spain",41.4433577,1.6213782
+5236,Restaurante Chino Pekin,,"Chinese, Asian",3.0,,"Aparici, N0 4 - Caldes de Montbui","Carrer Aparici, 08140 Caldes de Montbui, Spain",41.6315884,2.1660936
+5237,La Bodegueta de les Corts,,,2.5,,Travessera de les Corts 154,"Travessera de les Corts, 08021 Barcelona, Spain",41.3891656,2.1391362
+5238,Petipe,,€4 - €6,1.0,,Vic 25,"Vic, Catalonia, Spain",41.9302021,2.2545943
+5239,Restaurant Saraba,,€8 - €15,4.5,,"Carrer de Villarroel, 30","Carrer de Villarroel, 30, 08011 Barcelona, Spain",41.381884,2.161525
+5240,Restaurante Mabi,,"Mediterranean, European, Spanish",3.0,,Constanca 6,"Constança, Carrer de Constança, 08021 Barcelona, Spain",41.3892684,2.1348248
+5241,La Grotta del Clot,,"Italian, Pizza, Fast Food",2.5,,Carrer Del Clot 179,"Carrer del Clot, 08026 Barcelona, Spain",41.4164135,2.1914015
+5242,La Penultima Del Clot,,"Breakfast, Lunch, Dinner, Drinks",3.5,,"Avinguda Meridiana, 97","Avinguda Meridiana, 97, 08026 Barcelona, Spain",41.4069687,2.1865602
+5243,Am8 Cafe,,€2 - €10,2.5,,"Carrer d'Ausias Marc, 4","Carrer d'Ausiàs Marc, 08840 Viladecans, Spain",41.3191887,2.0227251
+5244,Chirringuito Las Vegas,,Spanish,2.0,,Carrer de Pontevedra,"Carrer de Pontevedra, 08 Barcelona, Spain",41.3784024,2.1901748
+5245,Nass Beach,,"Bar, Mediterranean, European, Spanish, Contemporary, Pub, Fusion",2.5,,"Pl. Del Mar, S/N","Plaça del Mar, Sant Oleguer, Sabadell, Catalonia, Spain",41.5428572,2.1174591
+5246,La caseta del migdia,,"Mediterranean, Spanish, European",3.0,,Montjuic,"08004 Barcelona, Spain",41.3647625,2.154233
+5247,Nou Mundial,,"Cafe, International, Spanish",2.5,,130 Travessera de Les Corts,"Travessera de les Corts, 08021 Barcelona, Spain",41.3891656,2.1391362
+5248,El Bergueda,,,2.0,,"Canuda, 11","Restaurante cafeteria el Fergueda, Carrer de la Canuda, 11, 08001 Barcelona, Spain",41.3847542,2.1715098
+5249,Bar restauran Reventos,,"Spanish, Diner",2.5,,"Carrer Rec Comtal, 2","Hotel Catalonia Born, Carrer del Rec Comtal, 16-18, 08003 Barcelona, Spain",41.3896556,2.1798933
+5250,Bar Sol Restaurante,,"Breakfast, Lunch, Dinner",2.0,,"Carrer de Napols, 8","carrer de Nàpols, 8, 08914 Badalona, Spain",41.440621,2.2266194
+5251,Caferabia,,,2.0,,"Placa Portal de la pau, 4","Portal de la Pau, Passeig de Colom, CP 08003 Barcelona, Spain",41.376698,2.178483
+5252,Tapasbar Bruc,,Spanish,2.0,,Carrer de Bruc,"Carrer de Bruc, 088800 Cubelles, Spain",41.2021239,1.6805162
+5253,Mario Restaurante,,Spanish,2.5,,"Carrer Del Cardenal Reig, 22","Catalonia, Spain",41.66667,2.0
+5254,La Cantonada de Bacardi,,Dinner,1.5,,"C/ Carreras I Candi, 51","Carrer de Carreras i Candi, 082028 Barcelona, Spain",41.3727002,2.1280898
+5255,Duffin Dagels Splau! Cornella,,Seafood,2.5,,"Avda. Baix Llobregat, s/n - Centro Comercial SPLAU!","Catalonia, Spain",41.66667,2.0
+5256,La Barra de la d'or,,€4 - €12,2.0,,C/ Calabria 16,"Carrer de Calàbria, 16, 08015 Barcelona, Spain",41.3761525,2.1600808
+5257,Spaghetti a la Guitarra,,Italian,2.0,,Puerto Principe 73,"Puerto Príncipe, Carrer de Puerto Príncipe, 08027 Barcelona, Spain",41.4240333,2.1818107
+5258,Bar Moccia,,€10 - €20,1.0,,"Moll de Ponent, 1","08039 Barcelona, Spain",41.364878,2.1775061
+5259,Restaurante Port Nautic,,"Mediterranean, Spanish",3.0,,"Moll de la Ronda, 15","Moll de la Ronda, 08930 Sant Adrià de Besòs, Spain",41.4143488,2.2263152
+5260,Frankfurt Lubeck,,Fast Food,2.5,,"C. Sant Antoni Maria Claret, 133","Carrer Sant Antoni Maria Claret, Mura, Spain",41.6995675,1.9776704
+5261,Bar Lleida,,Cafe,2.5,,Passeig de Sant Joan 4,"La triunfal, Passeig de Sant Joan, 4, 08003 Barcelona, Spain",41.3918366,2.1800486
+5262,Nou Can Tipa,,"Seafood, European",2.5,,Passeig Joan de Borbo 6,"Pg Joan de Borbó, Passeig de Joan de Borbó, 72 Barcelona, Spain",41.3800122,2.1871883
+5263,La Palmera,,€2 - €12,1.0,,Castillejos 158,"castillejos, Carretera de Cabrils, 08340 Vilassar de Mar, Spain",41.5066293,2.3863371
+5264,Viena Glories,,"European, Cafe, Fast Food",2.5,,"Avenue Diagonal, 208","Glòries Multicines, Avinguda Diagonal, 208, 08018 Barcelona, Spain",41.4053714,2.1928801
+5265,Frankfurt La Llesca,,,2.5,,Carrer Riera Blanca 5,"Riera Blanca, 08540 Sant Martí de Centelles, Spain",41.7716838,2.2180366
+5266,Restaurante Capricho Gallego,,Spanish,2.5,,"Plaza Isop, 8","Catalonia, Spain",41.66667,2.0
+5267,Food Game,,,1.0,,Av/Sarria 37,"Av Sarrià, Carrer de la Caravel·la La Niña, 08021 Barcelona, Spain",41.3914151,2.1327646
+5268,Restaurante Bar La Cepa,,"Spanish, Mediterranean",2.5,,"Almirall Cervera, 15","Pg Marítim - Almirall Cervera, Passeig Marítim de la Barceloneta, 08 Barcelona, Spain",41.3791788,2.1921529
+5269,El Pato Loco,,,2.5,,"Diputacio, 222","Diputació, 08733 Puigdàlber, Spain",41.4039736,1.6994345
+5270,Cancosta,,"Seafood, Mediterranean, European, Spanish",2.5,,I Diumenges,"Catalonia, Spain",41.66667,2.0
+5271,Ingredients Healthy Corner,,Healthy,1.0,,Calle Numancia 88,"Carrer Numància, 08241 Manresa, Spain",41.7314289,1.8182818
+5272,La Bodeguita del Poble,,Spanish,2.5,,Plaza Aragonesa,"Plaça Aragonesa, Barcelona, Spain",41.368859,2.1483047
+5273,La Lia,,Fast Food,2.5,,"Ronda de Sant Pau, 65","Ronda de Sant Pau, La Lia hamburgueseria, 65, 08001 Barcelona, Spain",41.3779604,2.1637978
+5274,Restaurante Cal Pinxo Paltja,,"Seafood, Spanish, Mediterranean",2.5,,"Carrer Del Baluart, 124","Catalonia, Spain",41.66667,2.0
+5275,3Sentits,,"Mediterranean, Diner, Spanish, Cafe, Fast Food",2.5,,Carrer D'Arizala 53,"Carrer d'Arizala, 08028 Barcelona, Spain",41.3780977,2.123918
+5276,La Florida,,"Chinese, Japanese, Spanish",1.0,,Rambla Fabra i Puig 32,"Rambla de Fabra i Puig, 08030 Barcelona, Spain",41.4301798,2.1879978
+5277,Groa Lounge,,"Spanish, Contemporary",2.0,,Carrer Amigo 22,"Amigó, Carrer de Tamarit, 08011 Barcelona, Spain",41.3794054,2.1617499
+5278,Jaipur Palace,,Indian,2.5,,Paseo Josep Llovera 11,"Passatge de Josep Llovera, 08006 Barcelona, Spain",41.3963236,2.1478417
+5279,Legends BCN Restaurante,,€5 - €24,2.5,,Travessera de Gracia 81,"Legends, Travessera de Gràcia, 81, 08006 Barcelona, Spain",41.3972055,2.151043
+5280,Pandora,,€8 - €18,2.5,,"Gran Via De Les Corts Catalanes, 555","Gran Via de les Corts Catalanes, 555, 08011 Barcelona, Spain",41.3838453,2.1604292
+5281,Enrich,,Mediterranean,1.0,,Balmes 403,"Carrer de Balmes, 403, 08006 Barcelona, Spain",41.4064454,2.1385783
+5282,L'illa del Forum,,"Cafe, Contemporary, Dining bars",1.0,,"Rambla de Prim, 19","Rambla de Prim, 19, 08019 Barcelona, Spain",41.4116133,2.218234
+5283,Rikki Rikki,,"Chinese, Japanese, Sushi, Asian",3.0,,"C/ Roger de Lluria, 114","Roger De Lluria, Carrer de Roger de Llúria, 08010 Barcelona, Spain",41.3910629,2.1718498
+5284,Oishii-2,,,1.0,,"Avda Meridiana, 386","Avinguda Meridiana, 386, 08030 Barcelona, Spain",41.4297694,2.1839513
+5285,Parisien,,€25 - €55,1.0,,Aribau 191,"Aribau, 08204 Sabadell, Spain",41.5283818,2.1105725
+5286,Toyama Japanese Restaurant,,€7 - €20,2.5,,C/. Marina 191,"08729 Castellet i la Gornal, Spain",41.25977,1.6430355
+5287,Nou Llopart - Rector Triado,,,1.0,,"Carrer Del Rector Triado, 72","Carrer del Rector Triadó, 08014 Barcelona, Spain",41.3789062,2.1421747
+5288,Jin Da le,,"Sushi, Asian, Chinese, Japanese",2.5,,"Carrer Aribau, 14","Aribau, Carrer d'Aribau, 37, 080007 Barcelona, Spain",41.3876521,2.1602093
+5289,Frankfurt Station,,"Fast Food, Spanish",2.5,,Creu Coberta 31,"Creu Coberta, Plaça Espanya, 8015 Barcelona, Spain",41.3752708,2.1483021
+5290,Barcelona Beach Club,,€15 - €30,2.5,,Platja de la Nova Mar Bella,"Platja de la Nova Mar Bella, Ronda Litoral, 08019 Barcelona, Spain",41.4017595,2.2154032
+5291,Burger King,,Fast Food,1.0,,plaza Urquinaona 11,"Pl Urquinaona, Plaça d'Urquinaona, 08010 Barcelona, Spain",41.3888302,2.1732531
+5292,Riko's,,Peruvian,2.5,,Roger De Lluria 54,"Roger De Lluria, Carrer de Roger de Llúria, 08010 Barcelona, Spain",41.3910629,2.1718498
+5293,Bar Xose,,Spanish,1.0,,"Carrer de Sepulveda, 147","Xosé, Carrer de Sepúlveda, 147, 149, 08011 Barcelona, Spain",41.382299,2.1609688
+5294,Foster's Hollywood,,"Lunch, Dinner",2.5,,"Avenida Josep Tarradellas, 138.","Avinguda Josep Tarradellas, 08840 Viladecans, Spain",41.3124257,2.0159275
+5295,Bar Manila,,,1.0,,"Manila,39","Santander, Carrer Manila, 39, 08034 Barcelona, Spain",41.3898951,2.1246067
+5296,Arabia la Jonquera,,,2.0,,"C/ La Jonquera, 26","Parking, Carretera Madrid-Barcelona-Frontera Francesa, 17709 la Jonquera, Spain",42.3968691,2.8811316
+5297,Jaume's,,Mediterranean,1.5,,130 Espronceda,"08204 Sabadell, Spain",41.5278333,2.1116667
+5298,Diobar,,€7 - €30,1.0,,"Avinguda Marques DE L'argentera, 27","Catalonia, Spain",41.66667,2.0
+5299,Costa Sol,,"Pizza, Spanish, Diner",1.0,,Carrer de Corsega 403,"Carrer de Còrsega, 403, 08037 Barcelona, Spain",41.399991,2.1637449
+5300,Al Solete,,,2.0,,110 Carrer de Ganduxer,"Carrer de Ganduxer, 08022 Barcelona, Spain",41.4046843,2.1300311
+5301,Croqueteca Gotico - Taperia & Cocteleria,,"Mediterranean, Spanish, Catalan",1.0,,"Carrer d'en Serra, 20, 08002 Barcelona","Carrer d'en Serra, 20, 08002 Barcelona, Spain",41.3796431,2.1788044
+5302,Cal Ministre,,Spanish,1.0,,"Carrer De Sicilia, 270","Carrer de Sicília, 270, 08013 Barcelona, Spain",41.400758,2.1747219
+5303,Cafeteria Dit i Fet,,,2.0,,"C/ Conseil de Cent, 439","Catalonia, Spain",41.66667,2.0
+5304,Rostisseria y Xarcuteria Menjars,,€4 - €8,5.0,,Calle Concilio de Trento 26,"Catalonia, Spain",41.66667,2.0
+5305,Sidreria san Fermin,,Spanish,2.5,,Escudellers 23,"Carrer dels Escudellers, 80002 Barcelona, Spain",41.3799218,2.1766799
+5306,Cafe & Tapas,,"Cafe, European, Spanish",2.5,,"Avinguda Diagonal, 569","Avinguda Diagonal, 08034 Barcelona, Spain",41.3865072,2.1201545
+5307,Serrano,,,2.0,,"Calle Plom, 10-12","Carrer del Plom, 08908 Barcelona, Spain",41.3522909,2.1375068
+5308,Bonissim,,Spanish,2.5,,Rambla Raval 4,"La Rambla, Carrer de les Cabres, 08001 Barcelona, Spain",41.3810823,2.173344
+5309,La Fonda D'horta,,Spanish,2.5,,"Placa D'eivissa, 8","Plaça d'Eivissa, Barcelona, Spain",41.4305274,2.1609327
+5310,Caffe Fiorino,,"Cafe, Fast Food",2.5,,"Pl. De Lesseps, 23","Plaça de Lesseps, Barcelona, Spain",41.4070092,2.1505914
+5311,Divina Pedralbes,,"Italian, Pizza, Fast Food",3.0,,"Alfambra, 11-13","Alfambra, Carrer de Trias i Giró, 08034 Barcelona, Spain",41.3862381,2.1124486
+5312,Bar Rte. Andurina,,Spanish,2.5,,"Passeig de Pujades, 5","Passeig de Pujades, 0805 Barcelona, Spain",41.3914851,2.186934
+5313,Restaurant Yujian,,Chinese,2.0,,"Carrer de Sardenya, 178","Carrer de Sardenya, 178, 0805 Barcelona, Spain",41.3965743,2.182539
+5314,La Maria Castana,,Cafe,3.0,,c/ Mallorca 371,"Mallorca, Carrer de Mallorca, 08009 Barcelona, Spain",41.3968924,2.1667115
+5315,Shingu,,"Japanese, Chinese, Sushi, Asian",3.0,,Ronda de la Universidad 20,"Ronda, 08303 Mataró, Spain",41.5450924,2.4339307
+5316,Rio Lor,,Spanish,3.0,,"Avinguda de Madrid, 103","Avinguda de Madrid, 08014 Barcelona, Spain",41.3807895,2.1323994
+5317,Restaurant El Plaer,,Spanish,2.5,,"Calle Del Comte D'Urgell, 198","Carrer del Comte d'Urgell, 198, 08036 Barcelona, Spain",41.3881488,2.1511137
+5318,Sushi Shop,,€15 - €37,2.5,,"Pasaje de la Concepcion, 2","Catalonia, Spain",41.66667,2.0
+5319,Tapas 125,,"Spanish, European",2.5,,Las Ramblas,"Barcelona, Catalonia, Spain",41.3828939,2.1774322
+5320,Cookflat,,"International, Mediterranean, Spanish",3.0,,Calle tapioles 53,"Torrent de Tapioles, 08033 Barcelona, Spain",41.4633776,2.1832076
+5321,Restaurante Panxot,,,1.5,,"Rambla Brasil, 42","La Rambla, Barcelona, Spain",41.3808205,2.1735709
+5322,Nemrut,,€10 - €22,2.5,,Avinyo 21,"Avinyó, Catalonia, Spain",41.8630096,1.9707409
+5323,McDonald's,,Fast Food,2.5,,Carretera Collblanc 22,"Collblanc, l'Hospitalet de Llobregat, Catalonia, Spain",41.3732036,2.1173563
+5324,BWok,,€8 - €12,2.5,,Plaza Urquinaona 3,"Pl Urquinaona, Plaça d'Urquinaona, 08010 Barcelona, Spain",41.3888302,2.1732531
+5325,Cafe & Tapas,,"Cafe, European",2.5,,Calle Balmes 199,"Carrer Balmes, 08600 Berga, Spain",42.1044459,1.8477883
+5326,Gloria Restaurant,,"Mediterranean, European, Spanish",2.5,,Via Laietana,"Via Laietana, CP 08003 Barcelona, Spain",41.385305,2.1769485
+5327,El Mirador,,,2.0,,380 Sardenya,"Carrer de Sardenya, 380, 08088 Barcelona, Spain",41.4056543,2.1705607
+5328,La Tasqueta Del Paral lel,,Spanish,3.0,,Av. De Paral Lel 99,"Catalonia, Spain",41.66667,2.0
+5329,VinsBury,,€10 - €50,3.0,,"Calle Avenir, 47","Catalonia, Spain",41.66667,2.0
+5330,Kresios BCN,,€45 - €150,2.0,,"Calle dels Lledo, 7","Parc dels Gegants, Montornès del Vallès, Catalonia, Spain",41.5403704,2.2707231
+5331,Restaurante El Dique,,"Mediterranean, Spanish",2.5,,25,"Barcelona, Catalonia, Spain",41.3828939,2.1774322
+5332,TROPICALISSIMA,,"Latin, Colombian, Spanish",2.5,,De Les Corts Catalanes 482,"Catalonia, Spain",41.66667,2.0
+5333,Nostrum,,"Breakfast, Lunch",3.0,,"Carrer de Jordi Girona, 8","Carrer de Jordi Girona, 08034 Barcelona, Spain",41.3875495,2.113918
+5334,La Casona de Clariana,,Spanish,2.5,,"Carrer Pineda, 14","Carrer Pineda, 14, 08859 Begues, Spain",41.3313455,1.9259532
+5335,Canta Napoli,,Italian,2.5,,Escorial 160,"Escorial Vedruna, Plaça de Santa Eulàlia, Vic, Spain",41.9295895,2.2601788
+5336,Tapas Bravas,,"Spanish, Mediterranean",2.5,,La Rambla 125,"Amorino Barcelona - Las ramblas, La Rambla, 125, 08002 Barcelona, Spain",41.384831,2.1701595
+5337,Bar Upiaywasi,,Bar,2.5,,"Allada Vermell, 11","Catalonia, Spain",41.66667,2.0
+5338,Bombay City,,"Italian, Indian, Fast Food",2.5,,"Carrer del Comte Borrell, 160","Carrer del Comte Borrell, 160, 08015 Barcelona, Spain",41.3835207,2.1548621
+5339,Diagonal Fu,,"Breakfast, Lunch, Dinner",1.5,,"Carrer de Pallars, 375","Carrer de Pallars, 08019 Barcelona, Spain",41.4084487,2.2074661
+5340,Marzan Asador Basco,,Spanish,2.5,,"C/ Valencia, 207","Valencia, Carrer de València, 08291 Ripollet, Spain",41.4943576,2.1695649
+5341,Mc Donalds Barcelona,,International,2.5,,Carretera de Collblanc 22,"McDonald's, Carretera de Collblanc, 22, 08903 l'Hospitalet de Llobregat, Spain",41.375854,2.1203373
+5342,Sushi Shop,,€12 - €30,2.5,,Avenida Diagonal 602,"Avinguda Diagonal, 602, 08021 Barcelona, Spain",41.3928461,2.1433566
+5343,La Malquerida,,"Mediterranean, Spanish, Fusion, Wine Bar",4.0,,"Carrer de Sant Elies, 11","Carrer de Sant Elies, 08006 Barcelona, Spain",41.4012825,2.1447209
+5344,Bar El Kwai,,€2 - €40,4.0,,Calle Vallespir 18,"Carrer Vallespir, 08187 Santa Eulàlia de Ronçana, Spain",41.6396831,2.2003531
+5345,VIPS,,€8 - €15,2.5,,"Carrer De Potosi, 2","Carrer de Potosí, 2, 08030 Barcelona, Spain",41.4427541,2.2002297
+5347,Restaurante L'Alianca del Poble Nou,,€10 - €25,2.5,,"Rambla de Poblenou, 42","Rambla del Poblenou, 08018 Barcelona, Spain",41.403432,2.1980044
+5348,Como en Casa,,,1.0,,"Carrer de Blai, 42","Carrer de Blai, 08001 Barcelona, Spain",41.3729517,2.1664379
+5349,Julian,,,1.0,,Blasco de garay 33,"Carrer de Blasco de Garay, 08015 Barcelona, Spain",41.3744643,2.1631961
+5350,Lesense,,€8 - €17,3.0,,Avenida Diagonal 208,"Glòries Multicines, Avinguda Diagonal, 208, 08018 Barcelona, Spain",41.4053714,2.1928801
+5351,Bar Santin,,€3 - €13,3.5,,"Calle Ventura Plaja, 7","Carrer de Ventura Plaja, 08094 l'Hospitalet de Llobregat, Spain",41.3747508,2.1264168
+5352,La Sastreria Cafe,,Cafe,5.0,,"Carrer de Joan Maragall, 9","Carrer de Joan Maragall, 08490 Tordera, Spain",41.6977019,2.7216393
+5353,GastroBar Miramar,,"Bar, Pub",2.5,,Ctra Vallvidrera al Tibidabo 83-89,"Catalonia, Spain",41.41667,2.11667
+5354,Kenko 2,,€8 - €30,2.5,,c/ Dos de Mayo 250,"Catalonia, Spain",41.66667,2.0
+5355,Bar Maristany,,€15 - €25,2.5,,Passeig Joan de Borbo 12,"Pg Joan de Borbó, Passeig de Joan de Borbó, 72 Barcelona, Spain",41.3800122,2.1871883
+5356,Corcega,,Dinner,3.5,,Corcega 368,"Corsican Mouflon, Plaça de Joan Fiveller, Barcelona, Spain",41.3859039,2.1890049
+5357,Restaurante La Zona,,"Spanish, Mediterranean",2.0,,"C/60, Num 19, Sector a","GR 173 - Torrent Núm 101, 08214 Barberà del Vallès, Spain",41.5191655,2.1135044
+5358,Dino,,,2.0,,"Gran Via de les Corts Catalanes, 373-385, Local 526 A-B","Gran Via de les Corts Catalanes, 08018 Barcelona, Spain",41.4100006,2.1958169
+5359,Tipica Tapa,,€2 - €35,3.0,,"Industria, 202","Carrer de la Indústria, 202, 08037 Barcelona, Spain",41.4107206,2.1759909
+5360,El Nostre Cafe,,"Breakfast, Lunch, Dinner",2.0,,Avinguda de Vallcarca 125,"Avinguda de Vallcarca, 08023 Barcelona, Spain",41.4157334,2.1421855
+5361,Wok You,,"Chinese, Japanese, Asian",2.5,,C/ Potosi,"Potosí, 08922 Santa Coloma de Gramenet, Spain",41.4431877,2.2068058
+5362,Konkai sushi,,€12 - €40,4.0,,"Calle Roger de Flor, 222","Carrer Roger de Flor, 08924 Santa Coloma de Gramenet, Spain",41.4632118,2.2080004
+5363,Da Yin He,,€6 - €11,2.5,,Fontanella 15 entre placa Catalunya y,"Catalonia, Spain",41.66667,2.0
+5364,Rostisseria el Caliu,,"Mediterranean, European, Spanish, Grill",3.0,,Calle Ausias March 6,"Carrer Ausias March, 08470 Sant Celoni, Spain",41.6821942,2.4861395
+5365,La Guingueta,,Reservations,2.0,,Playa De San Sebastian,"Platja de Sant Sebastià, Plaça del Mar, Barcelona, Spain",41.3713457,2.1892624
+5367,Como En Casa,,,1.5,,Travessera de Les Corts 373,"Travessera de les Corts, 08021 Barcelona, Spain",41.3891656,2.1391362
+5368,Taverna 1900,,€10 - €30,2.5,,la Rambla No 52,"La Rambla, 80002 Barcelona, Spain",41.3811995,2.1733931
+5369,Tapes Gaudi,,"Mediterranean, European, Spanish",2.5,,Av. Gaudi n0 44-46,"Avinguda d'en Gaudí, Mediona, Spain",41.4770176,1.6091548
+5370,Tasca I Vins,,€9 - €19,2.5,,Calle Cardenal Tedeschini 32,"Carrer del Cardenal Tedeschini, 08027 Barcelona, Spain",41.4255003,2.1823477
+5371,Hotdoks,,Fast Food,2.0,,Carrer de Sants 126,"Carrer de Sants, 08014 Barcelona, Spain",41.3754056,2.1352477
+5372,SAPOR D'ITALIA BORDETA,,€3 - €15,2.0,,Carretera de la Bordeta 57,"Carretera de la Bordeta, 08014 Barcelona, Spain",41.3727768,2.1426638
+5373,Iberic Fusion Parc Guell,,€15 - €35,2.5,,"Rambla Mercedes, 26","Rambla de Mercedes, 08024 Barcelona, Spain",41.4122924,2.154122
+5374,Restaurante Ambos Mundos,,"Seafood, Mediterranean, European, Spanish, Catalan",2.5,,"Reial, 10","Royal Square, Barcelona, Spain",41.3800909,2.1750111
+5375,Miku Sushi,,€9 - €59,2.5,,"Carrer de Sicilia, 129","Carrer de Sicília, 129, 08088 Barcelona, Spain",41.3968577,2.179517
+5376,El Raco del Teatre Tapas,,Brunch,2.5,,Avinguda Del Parallel 38,"Avinguda del Paral·lel, Barcelona, Spain",41.3747537,2.1730633
+5377,Burger Rock,,Barbecue,2.5,,Carrer Del Comte D'urgell 76,"Carrer del Comte d'Urgell, 76, 08011 Barcelona, Spain",41.3828229,2.1581027
+5378,Telepizza,,"Pizza, Fast Food",2.5,,"Avenida Paral.Lel, 139","Catalonia, Spain",41.66667,2.0
+5379,La Central - Arenas,,,2.0,,"Carrer de Llanca, 20","Casa Fajol, Carrer de Llançà, 20, 08015 Barcelona, Spain",41.3766729,2.1503676
+5380,Restaurante Pakistan El Gallo Kiriko,,"Spanish, European",2.0,,"Avinyo, 19","Avinyó, Catalonia, Spain",41.8630096,1.9707409
+5381,Rive Gauche,,,1.5,,"Calle Granada Del Penedes, 21","Catalonia, Spain",41.66667,2.0
+5382,Los Tilos BCN,,Pub,2.0,,Passeig dels Til.lers 1,"Catalonia, Spain",41.66667,2.0
+5383,Restaurante Papila,,€6 - €11,2.0,,"Avinguda de Vallcarca, 151","Avinguda de Vallcarca, 08023 Barcelona, Spain",41.4157334,2.1421855
+5384,Kowloon Bar,,Japanese,2.0,,"Carrer De Viladomat, 43","Idò, Carrer de Viladomat, 43 bis, 08015 Barcelona, Spain",41.3770582,2.1605884
+5385,Hello Star,,€10 - €200,4.5,,"Carrer de Pau Claris, 151","Carrer de Pau Claris, 151, 08007 Barcelona, Spain",41.3944192,2.1647116
+5386,Nut,,"Italian, Pizza",2.5,,"Verdi, 2","Bar Canigó, Carrer de Verdi, 2, 08012 Barcelona, Spain",41.4029997,2.1579171
+5387,Sternalia Productions,,"Mediterranean, Spanish",2.0,,"Passeig Taulat, 177 Baixos","Catalonia, Spain",41.66667,2.0
+5388,Feeling Bar,,"Bar, Pub",5.0,,Calle Avenir N0 66,"Catalonia, Spain",41.66667,2.0
+5389,Dehesa Santa Maria,,Spanish,2.5,,C/ Muntaner 256,"el Muntaner, Sobremunt, Catalonia, Spain",42.0316824,2.1622
+5390,Sushiyaki II Buffet,,,1.0,,"Carrer de Villarroel, 88","Sushi Yaki II, Carrer de Villarroel, 88, 08011 Barcelona, Spain",41.3844412,2.1580123
+5391,Feng Wei Cafeteria,,€2 - €10,4.5,,Carrer del Carme 9,"Carrer del Carme, 9, 08790 Gelida, Spain",41.4402242,1.8663145
+5392,Brujas Bar,,"Dinner, Late Night",4.5,,C/ Mascaro 58,"el Mascaró, Camí de la Portella, la Quar, Spain",42.1053809,1.9176665
+5393,Le Fabrik,,"Mediterranean, European, Spanish",2.5,,27 Rambla Del Poblenou,"Rambla del Poblenou, 27, 08005 Barcelona, Spain",41.3992226,2.2035122
+5394,Sushibox,,"Sushi, Japanese, Japanese Fusion",2.0,,"Passeig de Sant Gervasi, 79","Passeig de Sant Gervasi, 08022 Barcelona, Spain",41.4099272,2.1357342
+5395,Sher-E-Punjab,,€9 - €11,3.0,,"Carrer De Mexic, 17","LABulligrafía, Carrer de Mèxic, 17, 08004 Barcelona, Spain",41.3733496,2.1481657
+5396,Iboo,,€32 - €41,2.5,,Diagonal 545-577,"la Diagonal, 08230 Terrassa, Spain",41.6102845,1.9964356
+5397,Lounge El Respiro,,"Cafe, Spanish",5.0,,D'Arago 127,"Carrer d'Aragó, 127, 08011 Barcelona, Spain",41.3842727,2.1539461
+5398,Cappuccino,,"Seating, Table Service",2.0,,66 avenue Gaudi,"Avinguda Gaudí, 08620 Sant Vicenç dels Horts, Spain",41.3802623,1.9988352
+5399,Restaurante Taberna Galiza,,€9 - €41,2.5,,"Carrer de Calabria, 224","Carrer de Calàbria, 224, 08029 Barcelona, Spain",41.3854505,2.1479108
+5400,El Balconet,,Spanish,2.0,,Placa del Docter Andreu,"Catalonia, Spain",41.66667,2.0
+5401,Tapas Gaudi,,"Mediterranean, Spanish",2.5,,"C/ Llanca, 15","Carrer Comandant Llançà, 15, 08017 Barcelona, Spain",41.4090276,2.106986
+5402,365 Cafe,,Cafe,2.0,,Numancia 48,"Carrer de Numància, 48, 08191 Rubí, Spain",41.5012001,2.0368388
+5403,La Taberna de Alibaba,,€11 - €34,2.5,,Carrer Tajo 23,"Carrer Tajo, 08859 Begues, Spain",41.3425759,1.9021744
+5404,La Rambla Restaurant,,"Mediterranean, Spanish",2.5,,Ramblas 66,"Hotel chic&basic Ramblas, Passatge de Gutenberg, 7, 08001 Barcelona, Spain",41.3770098,2.1748842
+5405,El Chiringuito Group Barcelona Beach Playa Bogatell,,€9 - €28,2.5,,"Ronda del Litoral, S/n","Catalonia, Spain",41.66667,2.0
+5406,Genis Pizza,,€5 - €15,2.5,,"Moll de Gregal, 1-2","Moll de Gregal, 08071 Barcelona, Spain",41.3881704,2.2008832
+5407,Enrique Tomas,,Spanish,2.0,,C\ Moll D'espanya 5,"Moll d'Espanya, 72 Barcelona, Spain",41.3757474,2.1823397
+5408,Telepizza,,"Pizza, Fast Food",2.5,,"Rambla De Poblenou, 71","Rambla del Poblenou, 08018 Barcelona, Spain",41.403432,2.1980044
+5409,Can Pe Pe,,Mediterranean,2.5,,Carrer de Vila I Vila 86,"Carrer de Vila i Vilà, 08039 Barcelona, Spain",41.3726475,2.1740716
+5410,GARIVANO,,"Lunch, Dinner",2.0,,Rbla.BRASIL 18,"La Rambla, Barcelona, Spain",41.3808205,2.1735709
+5411,El Fraile,,Spanish,2.5,,"Pg. Potosi, 2","Catalonia, Spain",41.66667,2.0
+5412,ART 13,,"Breakfast, Lunch, Dinner",1.0,,carrer de Tuset 16,"Carrer de Tuset, 08006 Barcelona, Spain",41.3956711,2.1523527
+5413,Restaurante La Foixarda,,€15 - €30,2.5,,"Avenida dels Montanyans, 1-15","Avinguda dels Montanyans, 08004 Barcelona, Spain",41.3678147,2.148435
+5414,Els Maians,,"Seafood, Mediterranean, European, Spanish",2.5,,Joan de Borbo 33-34,"Passeig de Joan de Borbó, 72 Barcelona, Spain",41.380025,2.1873629
+5415,Farga,,Spanish,1.5,,"Gran de Gracia, 262","Carrer Gran de Gràcia, 08012 Barcelona, Spain",41.4016856,2.1533142
+5416,Cerveceria Berlin,,Serves Alcohol,2.0,,"Avinguda Diagonal, 637","Avinguda Diagonal, 08034 Barcelona, Spain",41.3865072,2.1201545
+5418,La Pizza Nostra,,"Pizza, Fast Food",2.0,,"Carrer d'Aribau, 13","Mediamanga, Carrer d'Aribau, 13, 080007 Barcelona, Spain",41.3861203,2.1621172
+5419,Nemesis Craft Brewery,,€5 - €20,5.0,,Carrer galileu 97,"Passeig de Sant Antoni, Galileu, 08014 Barcelona, Spain",41.3755137,2.135837
+5420,La Vinya del Mar,,"Seafood, Mediterranean, European, Spanish",2.0,,"Almirall Aixada, 21","Pg Joan de Borbó - Almirall Aixada, Passeig de Joan de Borbó, 72 Barcelona, Spain",41.3775692,2.1881898
+5421,La Torreta de Sarria,,Cafe,2.5,,Carrer de Carrasco y Formiguera 25,"Catalonia, Spain",41.66667,2.0
+5422,Dominos pizza terrassa 1,,"Pizza, Italian, Fast Food",2.5,,Terrassa,"Terrassa, Catalonia, Spain",41.5629885,2.0102442
+5423,Capuccino,,Cafe,2.0,,Via Laietana 23,"Cubedo, Via Laietana, 23, CP 08003 Barcelona, Spain",41.3837108,2.1788357
+5424,Tapas Apat,,"Spanish, Mediterranean, European",2.5,,Gran de Gracia 44,"Carrer Gran de Gràcia, 08012 Barcelona, Spain",41.4016856,2.1533142
+5425,Fabian Maremagnum,,"Italian, Pizza",2.5,,"Moll d'Espanya, 5","Moll d'Espanya, Gothic Quarter, Barcelona, Catalonia, Spain",41.3790967,2.1834962
+5426,Scenario Restaurant & Lounge,,"Table Service, Reservations, Seating",2.0,,"Moll de Mestral, 8","Moll de Mestral, 08071 Barcelona, Spain",41.3872066,2.1985088
+5427,Cerueceria,,"Spanish, Mediterranean",2.0,,Las ramblas,"Barcelona, Catalonia, Spain",41.3828939,2.1774322
+5428,Gaft Restaurant Group,,Table Service,2.0,,"Avinguda Drassanes, 6","Drassanes, Carrer del Portal de Santa Madrona, 80002 Barcelona, Spain",41.3765687,2.1755547
+5429,Gisela,,€3 - €50,1.5,,"Carrer Figols, 27-29","Fígols, Catalonia, Spain",42.1809467,1.8366637
+5430,La FLipper,,Seafood,1.0,,"Corsega, 596","Còrsega, 08192 Sant Quirze del Vallès, Spain",41.5294463,2.0700326
+5431,Restaurante Papitu,,€11 - €25,2.5,,"Passatge de la Virreina, 1","Passatge de la Virreina, 08001 Barcelona, Spain",41.3821211,2.1709537
+5432,Sydney Bcn,,Spanish,2.5,,Avenida Rio de Janeiro 42,"Catalonia, Spain",41.66667,2.0
+5433,The Wok Club,,€7 - €15,2.5,,Carrer Llanca 15-21,"Carrer Llançà, 08415 Santa Eulàlia de Ronçana, Spain",41.6446804,2.1915256
+5434,Restaurante Cosmos,,European,2.0,,"Calle La Rambla, 34","La Rambla, Barcelona, Spain",41.3808205,2.1735709
+5435,Via 70  Restaurant Wine Bar Lounge,,Spanish,2.0,,La Rambla N0 70,"La Rambla, Barcelona, Spain",41.3808205,2.1735709
+5436,Cafe da Madeira,,Table Service,1.5,,Manso 22,"carrer del General Manso, Borredà, Spain",42.1342602,1.9951674
+5437,AMK restaurante,,€9 - €21,5.0,,C/ Aribau 143,"Aribau, 08204 Sabadell, Spain",41.5283818,2.1105725
+5438,Itapa Colon,,€5 - €14,2.5,,La Ramblas 23,"Hotel chic&basic Ramblas, Passatge de Gutenberg, 7, 08001 Barcelona, Spain",41.3770098,2.1748842
+5439,El Llagar de Granda,,Spanish,3.0,,"Muntaner, 92","el Muntaner, Sobremunt, Catalonia, Spain",42.0316824,2.1622
+5440,Que Pasta! by Mandoni,,"Lunch, Dinner",1.5,,"Avinguda Diagonal, 3","Foster’s Hollywood, Avinguda Diagonal, 3, 08021 Barcelona, Spain",41.3921,2.14477
+5441,Giuliani's,,Italian,2.0,,Paseo Potosi- 2,"Potosí, 08922 Santa Coloma de Gramenet, Spain",41.4431877,2.2068058
+5442,Can Carbonell,,Spanish,2.0,,"Ctra de Sant Celoni a Santa Fe del Montseny, km 16,4",Comoros,-12.23333,44.44553
+5443,Restaurante Aroma,,€7 - €20,5.0,,"Avenida de Roma, 38","Avinguda de Roma, 08011 Barcelona, Spain",41.3852871,2.1545624
+5444,Al Rahmat Kebab Pizzeria,,"Italian, Indian, Turkish, Pakistani",1.0,,"Carrer del Pla de Fornells, 8","Carrer del Pla de Fornells, 08042 Barcelona, Spain",41.4484069,2.1737174
+5445,Pans & Company,,€3 - €7,2.0,,Josep Tarradellas Airport,"Barcelona El Prat Josep Tarradellas Airport, Ronda de Josep Canudas i Busquets, 08820 el Prat de Llobregat, Spain",41.2969439,2.0790474
+5446,La Bona Tapa,,"Mediterranean, European, Spanish",2.0,,"Calabria, 103","Carrer de Calàbria, 103, 08015 Barcelona, Spain",41.379808,2.1545078
+5447,Restaurant Fusion Lounge,,Table Service,2.0,,Carrer Potosi 2,"Potosí, 08922 Santa Coloma de Gramenet, Spain",41.4431877,2.2068058
+5448,Bonatapa,,"Mediterranean, European, Spanish",2.0,,La Rambla 103,"Tavertet, Catalonia, Spain",42.0135355,2.425772
+5449,El vuit Bodega iniesta,,€10 - €40,3.0,,Calle Gallego,"Carrer del Gallego, 08202 Sabadell, Spain",41.5508043,2.1218578
+5450,Ethniko Barcelona,,€10 - €35,4.5,,Passeig de Joan de Borbo 74,"Passeig de Joan de Borbó, 08 Barcelona, Spain",41.3810792,2.1863797
+5451,Bracafe,,"Spanish, Mediterranean",2.0,,"Rambla De Badal, 161-167","Rambla de Badal, 082028 Barcelona, Spain",41.3754069,2.1306677
+5452,Kabab Ghar,,"Mediterranean, Spanish",2.0,,"Ronda de Sant Pau, 54","Ronda de Sant Pau, 08001 Barcelona, Spain",41.3749809,2.1678835
+5453,Top Tapas,,"Bar, Mediterranean, European, Spanish",2.0,,Las Ramblas,"Barcelona, Catalonia, Spain",41.3828939,2.1774322
+5454,Burger Time Gourmet,,€5 - €15,4.5,,Carrer de Casanova 9,"Carrer de Casanova, 9, 08011 Barcelona, Spain",41.3822354,2.1626229
+5455,La Zarzuela,,Spanish,1.5,,Rambla Caputxins 66,"La Rambla, Rambla del Carme, 08500 Vic, Spain",41.9312616,2.2550572
+5456,Ca La Merce,,"Bar, Spanish, European, Pub",2.0,,"Placa Castilla, 1","Castilla, Carrer de Parcerisa, 15, 08014 Barcelona, Spain",41.3681469,2.13458
+5457,Casa Massana,,Spanish,2.0,,avenue francesc Ferrer Guardia 13 poble Espanyol,"Poble Espanyol, Catalonia, Spain",41.36873,2.14839
+5458,sukaldari,,"Mediterranean, Spanish",2.0,,"La Rambla, 87","La Rambla, 87, 08001 Barcelona, Spain",41.3819737,2.1722987
+5459,La Baguetina Catalana,,Takeout,1.5,,"Balmes, 130","Carrer de Jaume Balmes, 08301 Mataró, Spain",41.5360766,2.4467214
+5460,Burger King,,American,1.5,,"Passeig de Joan de Borbo, 2","Passeig de Joan de Borbó, 72 Barcelona, Spain",41.380025,2.1873629
+5461,Xines Orient,,Chinese,1.5,,La Rambla 45,"Tavertet, Catalonia, Spain",42.0135355,2.425772
+5462,Chiringuito Maluke,,"Italian, Brew Pub, Bar, Cafe, Spanish, Pub",1.5,,"Paseo Mare Nostrum, 93","Mare Nostrum, Passeig de Valldaura, 08035 Barcelona, Spain",41.43652,2.154851
+5463,Restaurant Ideal,,"European, Spanish, Mediterranean",2.0,,"La Rambla, 41","Tavertet, Catalonia, Spain",42.0135355,2.425772
+5464,Foster's Hollywood,,"Seating, Table Service",2.0,,"Avda. Rio De Janeiro, 42","Catalonia, Spain",41.66667,2.0
+5465,El Raco de Mitre,,Table Service,2.0,,"Ronda General Mitre, 5","Ronda del General Mitre, 08022 Barcelona, Spain",41.4027707,2.1379369
+5466,Kenji Sushi Bar,,"Japanese, Sushi, Asian",2.0,,Carrer de Sepulveda 3,"Carrer de Sepúlveda, 08015 Barcelona, Spain",41.3803469,2.1586871
+5467,El Bocata,,"Spanish, Cafe, Fast Food, Diner, Street Food",2.0,,"Passeig de Sant Antoni, 37","Passeig de Sant Antoni, 08014 Barcelona, Spain",41.3758026,2.1359113
+5468,La Cantonada,,Spanish,2.0,,"Sant Carles, 14","Sant Carles, carrer de Begur, 14, 08450 Llinars del Vallès, Spain",41.6009156,2.3780727
+5469,Pais Divino,,"Chinese, Japanese, Asian",2.0,,"Calle Secretari Coloma, 67-69","Carrer de Pau Alsina, 08024 Barcelona, Spain",41.4118791,2.1604284
+5471,Bodega Mendoza,,"Bar, Spanish, Wine Bar, Argentinean, South American, Dining bars",1.0,,C/Ramon Turro 181,"Carrer de Ramon Turró, 181, 08005 Barcelona, Spain",41.3995203,2.2022771
+5472,Real Tapas,,"Italian, Pizza, Seafood, Spanish",2.0,,Calle La Rambla 40,"La Rambla, 80002 Barcelona, Spain",41.3811995,2.1733931
+5473,San Remo Restaurant and Pizzaria,,"Cafe, European, Contemporary, Diner, Spanish",2.0,,37 Rambla dels Caputuxins,"Catalonia, Spain",41.66667,2.0
+5474,American Soda,,Spanish,1.5,,La Rambla 69,"Tavertet, Catalonia, Spain",42.0135355,2.425772
+5475,Restaurant International 08002 Barcelona,,"Asian, Chinese",1.5,,"C/ Fernando 5,","Fernando, Carrer de Ferran, 08002 Barcelona, Spain",41.3814249,2.1754606
+5476,L’oliva,,"Mediterranean, European, Spanish",2.0,,"La Rambla, 22","Tavertet, Catalonia, Spain",42.0135355,2.425772
+5477,Restaurante Brasil,,"Mediterranean, Spanish",1.5,,La Rambla 50,"Tavertet, Catalonia, Spain",42.0135355,2.425772
+5478,Restaurant Noku,,€18 - €35,1.0,,"Calle Santalo, 86","Carrer de Santaló, 08021 Barcelona, Spain",41.396429,2.1447797
+5479,Restaurant Parkguell,,Spanish,1.5,,"Rambla de Mercedes, 26","Rambla de Mercedes, 08024 Barcelona, Spain",41.4122924,2.154122
+5480,La Baguetina Catalana,,Serves Alcohol,1.5,,Carrer de Provenca,"Carrer de Provença, 8025 Barcelona, Spain",41.4062697,2.1768525
+5481,restaurant oriente,,Late Night,2.0,,"c/RAMBLA,45","Tavertet, Catalonia, Spain",42.0135355,2.425772
+5482,Plaza de Angel 5,,"Bar, Diner, Spanish",2.0,,"Carrer l'Angel, 5","Carrer de l'Angel, 08850 Gavà, Spain",41.3059639,2.0016819
+5483,El Rincon de Manolo,,"Lunch, Dinner",1.5,,Av. Paralelo 16,"Catalonia, Spain",41.66667,2.0
+5484,Eivissa,,"Mediterranean, Spanish, European",1.5,,"Rambla, 50","Tavertet, Catalonia, Spain",42.0135355,2.425772
+5485,Tapa Nostra,,"Spanish, European",2.0,,La Rambla 66,"Tavertet, Catalonia, Spain",42.0135355,2.425772
+5486,Tapa i Apat,,"Bar, Pizza, Seafood, Diner, Spanish",2.0,,"Gran de Gracia, 44","Carrer Gran de Gràcia, 08012 Barcelona, Spain",41.4016856,2.1533142
+5487,Gaft Gc Sl,,"Mediterranean, Spanish",2.0,,Avenue Drassanes,"Drassanes, Carrer del Portal de Santa Madrona, 80002 Barcelona, Spain",41.3765687,2.1755547
+5488,Bar Estel,,€5 - €15,5.0,,Viladomat 209,"Viladomat, Plaça de l'Ajuntament, 08698 la Nou de Berguedà, Spain",42.1671835,1.884449
+5489,Baviera Restaurant,,€6 - €60,2.0,,"La Rambla, 127","La Rambla, 127, 08002 Barcelona, Spain",41.3849501,2.1701199
+5490,Telepizza,,"Pizza, Fast Food",2.0,,Calle viladomat,"Viladomat, Plaça de l'Ajuntament, 08698 la Nou de Berguedà, Spain",42.1671835,1.884449
+5491,Cerveceria Colon,,"Bar, Spanish",2.0,,Plaza Real 18,"Royal Square, Barcelona, Spain",41.3800909,2.1750111
+5492,Cerveceria Naviera Hosteleria Alemana,,Spanish,2.0,,Rambla Canaletas 127,"Caserío de Canaletas, Catalonia, Spain",41.47776,1.70407
+5493,El Mordisquito,,Spanish,,,Calle Navas de Tolosa 240,"Avinguda Meridiana, Navas de Tolosa, 08026 Barcelona, Spain",41.4154995,2.1871433
+5494,ARTAPAS BARCELONA,,€5 - €20,,,Calle Provenca 269,"Carrer Provença, 08770 Sant Sadurní d'Anoia, Spain",41.4244026,1.7845184
+5495,Delaparra,,,5.0,,Passeig del Taulat 183,"Passeig del Taulat, 08019 Barcelona, Spain",41.4093534,2.2175438
+5496,Hana  Restaurante,,"Asian, Korean",5.0,,"Carrer de la Diputacio, 309","Carrer de la Diputació, 309, 08013 Barcelona, Spain",41.3929387,2.1702668
+5497,Restaurant Mirasol,,"Bar, Cafe, European, Pub, Catalan, Dining bars",0.0,,"Carrer de Sant Adria, 25","Mirasol, Carrer de Sant Adrià, 25, 08030 Barcelona, Spain",41.434411,2.1926269
+5498,Restaurante Tisso,,€10 - €20,0.0,,Tisso 29 rte,"Carrer d'en Tissó, 08016 Barcelona, Spain",41.4425714,2.1855217
+5499,El Braserito de Muntaner,,"Brew Pub, Spanish, Grill, Pub, Argentinean, South American",0.0,,"Carrer de Muntaner, 560","Carrer de Muntaner, 08036 Barcelona, Spain",41.3924477,2.1517144
+5500,Heladeria brina,,Fruit parlours,0.0,,Placa comerc,"Comerç, Passeig del Comerç, 08204 Sabadell, Spain",41.529293,2.108068
+5501,Les Voltes,,€10 - €25,0.0,,"Carrer de Cortit, 1-3","Carrer de Cortit, 08027 Barcelona, Spain",41.4258501,2.1898017
+5502,Bluebells,,"Spanish, Mediterranean",1.5,,"Carrer de Sant Antoni Maria Claret, S/N","Carrer de Sant Antoni Maria Claret, 08025 BARCELONE Barcelona, Spain",41.4101891,2.1730069
+5503,La casa del jamon,,"Outdoor Seating, Seating, Serves Alcohol, Table Service",1.0,,Cercano a Sagrada Familia,"Sagrada Família, Catalonia, Spain",41.40408,2.17332
+5504,A33 pizzeria napoletana,,€6 - €18,4.5,,Carrer de Manso 22,"Carrer de Manso, 08015 Barcelona, Spain",41.3759255,2.1595946
+5505,Trabucaire,,Spanish,1.5,,Carrer de Mallorca 420,"Carrer de Mallorca, 420, 08013 Barcelona, Spain",41.4032864,2.1753159
+5506,La Baguetina Catalana,,Fast Food,1.0,,"Passeig de Gracia, 86","Passeig de Gràcia, 86, 08008 Barcelona, Spain",41.3946741,2.1622856
+5507,La Baguetina,,Fast Food,1.5,,Rambla De Caputxins 112,"La Rambla, Rambla del Carme, 08500 Vic, Spain",41.9312616,2.2550572
+5508,La Baguetina Catalana,,Fast Food,1.5,,"La Rambla, 56","Tavertet, Catalonia, Spain",42.0135355,2.425772
+5509,Teima Tapes,,Spanish,1.5,,"10, Placa de Sant Josep Oriol","Plaça de Sant Josep Oriol, Barcelona, Spain",41.3823388,2.1741475
+5510,Bakery On Time,,"Takeout, Seating, Serves Alcohol, Table Service",1.5,,"Passeig de Gracia, 60","Passeig de Gràcia, 60, 08007 Barcelona, Spain",41.3927966,2.1646154
+5511,Bokaditos,,Pizza,1.5,,Gran Via de Les Corts Catalanes,"Gran Via de les Corts Catalanes, 08018 Barcelona, Spain",41.4101378,2.1957677
+5512,Restaurante Cuines,,"European, Spanish, Mediterranean",1.5,,"La Rambla, 100","Tavertet, Catalonia, Spain",42.0135355,2.425772
+5513,Boka,,"Lebanese, Pizza, International, Spanish, Middle Eastern, Fast Food",1.5,,"Gran Via de les Corts Catalanes, 373 - 385","Veritas, Gran Via de les Corts Catalanes, 373-385, 8015 Barcelona, Spain",41.3761395,2.1493475
+5514,Break.Eat,,"Cafe, Spanish, Healthy, Wine Bar",,,Calle Pau Claris 169,"Carrer Pau Claris, 08505 Vic, Spain",41.9137074,2.2301625
+5515,Pita House,,Spanish,1.5,,La Rambla 54,"La Rambla, 54, 80002 Barcelona, Spain",41.3798421,2.1746477
+5516,El Cafe de la Bota,,Spanish,,,Calle de Provenza,"Catalonia, Spain",41.66667,2.0
+5517,Brazilian World Cafe,,€5 - €10,,,"Carrer del Dos de Maig, 281","Carrer del Dos de Maig, 8025 Barcelona, Spain",41.4070674,2.1819917
+5518,La grangeta,,Cafe,,,Carrer Gran 60,"Carrer Gran, 08784 Piera, Spain",41.5054681,1.7515464
+5519,Sopar Enigma,,€70 - €71,,,Carrer del carme 47,"Biblioteca Sant Pau i Santa Creu, Carrer del Carme, 47, 08001 Barcelona, Spain",41.3812356,2.1694612
+5520,Casapalet,,Mediterranean,,,La forja 24,"Carrer de la Forja, 08225 Terrassa, Spain",41.5832833,2.0089836
+5521,Freakadelle,,Dinner,,,"C/ Francisco Giner, 22","Carrer de Francisco Giner, 08008 Barcelona, Spain",41.399093,2.1591747
+5522,Cielito Lindo Barcelona,,Mexican,,,"Av. Alfonso XIII 561,","Catalonia, Spain",41.66667,2.0
+5523,S'Agaro Pizza & Coctel,,"Breakfast, Lunch, Dinner",,,Calle Calabria 232,"Carrer de Calàbria, 08015 Barcelona, Spain",41.3772608,2.1582326
+5524,Fridays,,American,,,El Prat Airport,"Barcelona El Prat Josep Tarradellas Airport, Ronda de Josep Canudas i Busquets, 08820 el Prat de Llobregat, Spain",41.2969439,2.0790474
+5525,Timesburg Pl. Eivissa,,€7 - €15,,,"Placa Eivissa, 11","Plaça Eivissa, Plaça d'Eivissa, 08043 Barcelona, Spain",41.4301115,2.1610103
+5526,Can Patufet,,,,,Carrer De Roger De Flor 388,"Carrer de Roger de Flor, la Torre de Claramunt, Spain",41.5172551,1.6251584
+5527,Frankfurt El Chiringuito,,"Indian, Middle Eastern, Pakistani",,,"Carrer Major de Mercabarna, 76","Carrer Major de Mercabarna, 08820 Barcelona, Spain",41.330118,2.1147424
+5528,Bar Xirocco,,€2 - €20,,,Calle Mare de Deu del Remei,"Mare de Déu del Remei, Carrer de Joan XXIII, 08243 Manresa, Spain",41.7270954,1.8317009
+5529,Las Muns Poble Sec,,€2 - €11,,,Carrer de Blai 36,"Carrer de Blai, 08001 Barcelona, Spain",41.3729517,2.1664379
+5530,Nostrum,,"Seafood, Mediterranean",,,"Placa d'Europa, 1-3","Santander, Plaça d'Europa, 1-3, 08908 l'Hospitalet de Llobregat, Spain",41.357388,2.126725
+5531,634832115,,€4 - €12,,,Rabassa 39,"Rabassa, Carrer de Rabassa, 5, 08024 Barcelona, Spain",41.4069631,2.1586352
+5532,Massa,,Italian,,,"Mallorca, 196","Mallorca, Carrer de Mallorca, 08009 Barcelona, Spain",41.3968924,2.1667115
+5533,Bar Granja Pepi,,Diner,,,Calle Ramon Turro 159,"Carrer de Ramon Turró, 0805 Barcelona, Spain",41.3913144,2.1914709
+5534,La Mascara Restaurante,,Mediterranean,,,"C/ Rosello, 197","Carrer del Roselló, 08303 Mataró, Spain",41.5388572,2.4250429
+5535,Panchito Parcerisa,,Reservations,,,"Carrer De Parcerisa, 11","Carrer de Parcerisa, 082028 Barcelona, Spain",41.3672764,2.1358195
+5536,Sal y Pimienta,,Reservations,,,"Carrer d'Amilcar, 134","Carrer d'Amílcar, 08031 Barcelona, Spain",41.4265172,2.172363
+5537,Enrich,,Mediterranean,,,Marques de Sentmenat 24,"Carrer del Marquès de Sentmenat, 08029 Barcelona, Spain",41.3853667,2.1406735
+5538,Delhi Tadka,,Indian,,,"Carrer del Dr. Fleming, 6","Carrer del Doctor Fleming, 6, 08800 Vilanova i la Geltrú, Spain",41.2238926,1.7192844
+5539,The Yard,,Reservations,,,"Carrer del Bruc, 46","Espai Brotes, Carrer del Bruc, 46, 08901 l'Hospitalet de Llobregat, Spain",41.3625857,2.0993801
+5540,Fun,,Reservations,,,Carrer De Craywinckel 9,"Donpiso, Carrer de Craywinckel, 9, 08022 Barcelona, Spain",41.4119219,2.1393959
+5541,Aguita,,Reservations,,,"Carrer De La Volta D'En Colomines, 2","Carrer de la Volta d'en Colomines, CP 08003 Barcelona, Spain",41.3845363,2.1791545
+5542,Maison,,Reservations,,,"Carrer De Trafalgar, 13","Carrer de Trafalgar, 13, 08010 Barcelona, Spain",41.3891706,2.1749081
+5543,Elfornet,,"Spanish, Catalan",,,"Carrer d'Aribau, 224","Carrer d'Aribau, 224, 08006 Barcelona, Spain",41.3973765,2.1479863
+5544,Casa Dolca Farrero,,Spanish,,,Calle Montsio 2,"Parròquia de Sant Raimon de Penyafort, Rambla de Catalunya, 115, 08007 Barcelona, Spain",41.393972,2.1589668
+5545,Leana,,Reservations,,,"Carrer de la Marina, 141","Carrer de la Marina, 141, 08013 Barcelona, Spain",41.396337,2.1844578
+5546,FUSION & CAFE,,€6 - €10,,,Salvador Spriu 61,"Catalonia, Spain",41.66667,2.0
+5547,Dunkin',,"Breakfast, Lunch, Dinner",,,"Avinguda Diagonal, 3","Foster’s Hollywood, Avinguda Diagonal, 3, 08021 Barcelona, Spain",41.3921,2.14477
+5548,Forn la Riera Blanca,,Spanish,,,"Carrer de Carreras i Candi, 51","Carrer de Carreras i Candi, 082028 Barcelona, Spain",41.3727002,2.1280898
+5549,BuenaMorena,,Mexican,,,Calle Aragon 122,"Catalonia, Spain",41.66667,2.0
+5550,Satiamen,,Reservations,,,"Placa D'Eivissa, 10","Plaça d'Eivissa, Barcelona, Spain",41.4305274,2.1609327
+5551,Bodega Dias Del Norte,,"Breakfast, Lunch, Dinner",,,Calle Casanova 19,"Avinyó, Catalonia, Spain",41.8799485,1.9562008
+5552,Sapri Pizza By Mr. Fedu,,€6 - €18,,,Sant Antoni Maria Claret 127,"Catalonia, Spain",41.66667,2.0
+5553,El Tastet de la Mar,,Spanish,,,Carrer de Mallorca,"Carrer de Mallorca, 08009 Barcelona, Spain",41.3960498,2.1654989
+5554,Sakura Sushi bar,,Japanese,,,"Av. de la Mare de Deu de Montserrat, 13","Sakura, Avinguda de la Mare de Déu de Montserrat, 13, 08024 Barcelona, Spain",41.4132662,2.1605097
+5555,Viena Corsega,,€3 - €10,,,"Calle Corsega , 174","Còrsega, 08192 Sant Quirze del Vallès, Spain",41.5294463,2.0700326
+5556,Bar Restaurante Morenita,,"Caribbean, Latin, Spanish",,,Carrer de Blasco de Garay 33,"Bar Restaurant Morenita, Carrer de Blasco de Garay, 33, 08004 Barcelona, Spain",41.3736343,2.1629575
+5557,iCoffee,,€20 - €30,,,"C/ Londres, 87","Carrer de Londres, 87, 08036 Barcelona, Spain",41.3930107,2.149854
+5558,Jatra,,,,,"C/ Padilla, 386","Carrer de Padilla, 386, 08025 Barcelona, Spain",41.4124116,2.1686191
+5559,Como en Mexico,,Mexican,,,Sardenya 416,"Sardenya, Carrer de Sardenya, 08088 Barcelona, Spain",41.4036868,2.1730622
+5560,Andogal Foods Sl,,€15 - €40,,,Avenida Josep Tarradellas Number 11,"Avinguda Josep Tarradellas, 08840 Viladecans, Spain",41.3124257,2.0159275
+5561,Casa Cheli Gastrotapeo,,€18 - €50,,,"Roger de Flor, 226","Roger de Flor, Carrer de Ribes, 08003 Barcelona, Spain",41.3925973,2.1813754
+5562,"Espacio Gastronomico Gran Copacabana, Gastronomia Diversa",,Greek,,,16 L' Hospitalet de Llobregat,"l'Hospitalet de Llobregat, Catalonia, Spain",41.3598601,2.0997927
+5563,Sport,,,,,Carrer de la Font Honrada N_49,"Carrer de la Font Honrada, 8015 Barcelona, Spain",41.3721964,2.155954
+5564,Morena,,,,,Gran Via de Les Corts Catalanes 596,"L'Oliva, Gran Via de les Corts Catalanes, 596, 08007 Barcelona, Spain",41.3865549,2.164941
+5565,Nimis Dinner Show,,,,,"Carrer de Muntaner, 212","4 latas, Carrer de Muntaner, 212, 08036 Barcelona, Spain",41.3933584,2.1502403
+5566,La Paradeta Iberica,,"Bar, Cafe, European, Spanish, Pub",,,"Av. de Cornella, 43, 08950 Esplugues de Llobregat","08950, Spain",41.3773,2.0881
+5567,Sesenta Cuarenta,,Reservations,,,"Placa D'Osca, 8","Plaça d'Osca, Barcelona, Spain",41.3760343,2.1386735
+5568,4 Makis,,Reservations,,,"Carrer de Muntaner, 191","Carrer de Muntaner, 191, 08036 Barcelona, Spain",41.3929132,2.1507768
+5569,Forn/Patisseria Gilabert,,,,,"Carrier Urgell, 75","Urgell, Catalonia, Spain",41.38244,2.15901
+5570,Biasonvallespin odyseas sl,,€10 - €500,,,"Comte Borrell, 171","Carrer del Comte Borrell, 08029 Barcelona, Spain",41.3890729,2.1471054
+5571,Raco de Maladeta,,Reservations,,,"Carrer de la Maladeta, 1","Carrer de la Maladeta, 08031 Barcelona, Spain",41.4331678,2.1749903
+5572,Abar Barcelona,,€6 - €10,,,"Carrer del Cardenal Casanas, 7","Kælderkold, Carrer del Cardenal Casañas, 7, 08001 Barcelona, Spain",41.3817906,2.1733474
+5573,Best Doner Kebab,,Arabic,,,"Carrer d'Arago, 590","Carrer d'Aragó, Canyelles, Spain",41.2720642,1.6990298
+5574,El Postureo,,€3 - €12,,,Berenguer De Palou 45,"Berenguer de Palou, Carrer de Clara Zetkin, 08027 Barcelona, Spain",41.4238636,2.1916532
+5575,Pastelea,,Spanish,,,"Passeig de Fabra i Puig, 140","Forn del Passeig, Passeig de Fabra i Puig, 140, 08016 Barcelona, Spain",41.4303903,2.1810197
+5576,Bar Restaurante 99,,€3 - €30,,,"Carrer de Sant Antoni Maria Claret, 151","Carrer de Sant Antoni Maria Claret, 151, 08037 BCN Barcelona, Spain",41.4103878,2.1730973
+5577,Peps Bufet,,Spanish,,,"Carrer de Grunyi, 5","Ziryab Fusion Tapas Bar, Carrer de Grunyí, 5, 08003 Barcelona, Spain",41.3840509,2.1802488
+5578,Con Barro,,,,,"Carrer d'Entenca, 57","Cruix, Carrer d'Entença, 57, 8015 Barcelona, Spain",41.3781721,2.1522428
+5579,El Traster,,Pizza,,,43 Carrer de Gracia,"Carrer de Gràcia, 08008 Barcelona, Spain",41.3982971,2.1580323
+5580,Bar Bodega Costa Brava,,"Bar, Pub, Mediterranean, Spanish, Wine Bar",,,carrer de l'Alzina 58,"Bodega Costa Brava, Carrer de l'Alzina, 58, 8 Barcelona, Spain",41.4077693,2.1552242
+5581,东方大酒店,,€8 - €50,,,"Carrer del Comte d'Urgell, 48","Wok Barcelona, Carrer del Comte d'Urgell, 46, 48, 08011 Barcelona, Spain",41.3812443,2.1601988
+5582,Restaurante Wenzhou,,"Chinese, Spanish",,,C/creu Coberta 58,"Creu Coberta, Plaça Espanya, 8015 Barcelona, Spain",41.3752708,2.1483021
+5583,Tauleta,,"Fast Food, Spanish",,,Aribau 37,"Aribau, Carrer d'Aribau, 37, 080007 Barcelona, Spain",41.3876521,2.1602093
+5584,Bona Miga,,€4 - €10,,,Torrent de l'olla 35,"Torrent de l'Olla, Carrer del Torrent de l'Olla, 221, 08012 Barcelona, Spain",41.4066828,2.1518689
+5585,Vinyl Burguers Factory,,€5 - €15,,,Calle Francesc Vinas 22,"Carrer de Francesc Vinyes, 08921 Santa Coloma de Gramenet, Spain",41.4514675,2.2063042
+5586,Frankfurt Munich,,€5 - €10,,,"Carrer del Comandant Benitez, 18","Carrer del Comandant Benítez, 08028 Barcelona, Spain",41.3799406,2.126718
+5587,Restaurant Japones Hanagin,,€8 - €15,,,C/Provenca 201,"Provença, Intercanviador Diagonal - Provença (L3 - L5 - FGC, 080007 Barcelona, Spain",41.3932454,2.1575069
+5588,Bar  Jeaune,,"Bar, Pub",,,Bar Jeaune,"Catalonia, Spain",41.66667,2.0
+5589,Bar Restaurante 515,,"Chinese, Japanese, Bar, Cafe, Sushi",,,Avenida Diagonal 515,"Avinguda Diagonal, 515, 08021 Barcelona, Spain",41.3912992,2.1407307
+5590,Restaurante Marisqueria Mikel's,,Seafood,,,5 Carrer de Can Molist,"Carrer de Can Molist, 08105 Martorelles, Spain",41.5277043,2.2419835
+5591,"La gallega de la plaza real, tobogan",,€10 - €30,,,Placa Reial 10,"Royal Square, Barcelona, Spain",41.3800909,2.1750111
+5592,Bar Restaurant Com A Casa,,"European, Spanish, Catalan",,,"Carrer de Padilla, 279","Com a Casa, Carrer de Padilla, 279, 8025 Barcelona, Spain",41.406627,2.1757859
+5593,"Romantico, specialities from Rome",,€15 - €65,,,"Avinguda de Sarria, 17","Restaurant Argentina Vinya Rosa, Avinguda de Sarrià, 17, 08029 Barcelona, Spain",41.3899015,2.1467719
+5594,Bar Musical,,Wine Bar,,,calle arago 343 Barcelona,"Carrer Aragó, 08870 Sitges, Spain",41.2387213,1.8155559
+5595,Crusto Gran de Gracia,,"Cafe, Mediterranean, Deli",,,"Calle Gran de Gracia, 107","Carrer Gran de Gràcia, 08012 Barcelona, Spain",41.4003762,2.154841
+5596,Restaurante A Ruta Galega,,Spanish,,,"Carrer de Buenos Aires, 36","Consum, Carrer de Buenos Aires, 34, 36, 08036 Barcelona, Spain",41.3919523,2.1467165
+5597,Pizzeria Ciro e Rosetta,,"Italian, Pizza",,,Tantarantana 20 - Allada Vermell 17,"Catalonia, Spain",41.66667,2.0
+5598,Alto Bueno Bar Restaurante,,"International, Mediterranean, Spanish, Catalan",,,"Muntaner, 109","el Muntaner, Sobremunt, Catalonia, Spain",42.0316824,2.1622
+5599,Pinata Cocktail Cantina,,€6 - €8,,,"Calle Casanova, 19","Avinyó, Catalonia, Spain",41.8799485,1.9562008
+5600,Hot Cold Drinks,,€2 - €8,,,C/ Balmes 130,"Carrer de Jaume Balmes, 08301 Mataró, Spain",41.5360766,2.4467214
+5601,Transportes Montserrat,,€10 - €50,,,Carrer de Paris 150,"Carrer de París, 150, 08036 Barcelona, Spain",41.3916167,2.1509647
+5602,Cuimed,,€5 - €15,,,"Via Augusta, 173","Via Augusta, 173, 08006 Barcelona, Spain",41.3980152,2.1411095
+5603,Cookflat Anfitriona Nancy,,"Peruvian, South American",,,Ramon y Cajal,"Carrer de Ramon y Cajal, 08490 Tordera, Spain",41.7081816,2.7257815
+5604,Granja Rivero,,,,,"Av. Francesc Ferrer i Guardia, 13","Catalonia, Spain",41.66667,2.0
+5605,Olemart,,"International, Asian",,,"Carrer Llull, 183","Plaça de Ramon Llull, Gràcia, Sabadell, Catalonia, Spain",41.5324095,2.1060697
+5606,Tapas de Luxe,,€3 - €10,,,"Miquel Ferra, 5","Carrer de Miquel Ferrà, 08031 Barcelona, Spain",41.4300338,2.1729096
+5607,AN Grup,,"American, Mediterranean",,,Avinguda Diagonal 405 bis 8e,"Avinguda Diagonal, Consolat General de l'Uruguai a Barcelona, 453 bis, 08036 Barcelona, Spain",41.3935066,2.1487471
+5608,Cafeteria Fortune,,"Bar, Spanish, Asian, Pub",,,Avenida de Roma 110,"Avinguda de Roma, 08011 Barcelona, Spain",41.3856012,2.1552491
+5609,Al Punt Gracia,,€4 - €8,,,Calle Torrent de L'olla 111,"Torrent de l'Olla, Carrer del Torrent de l'Olla, 221, 08012 Barcelona, Spain",41.4066828,2.1518689
+5610,Cafe Cafe,,"Breakfast, Lunch",,,"Gran Via De Les Corts Catalanes 3116, Estacion Plaza Espana","Laudio-Llodio, Basque Country, Spain",43.14322,-2.96204
+5611,Bar J,,Fusion,,,"Gran Via de les Corts Catalanes, 748","Gran Via de les Corts Catalanes, 748, 08013 Barcelona, Spain",41.3974787,2.1794299
+5612,Restaurante Tip-Tip,,,,,"Gran de Gracia, 123","Carrer Gran de Gràcia, 08012 Barcelona, Spain",41.4016856,2.1533142
+5613,Restaurante Isabel,,,,,426,"Barcelona, Catalonia, Spain",41.3828939,2.1774322
+5614,Restaurante Ganpatti,,,,,"Tallers, 29","la Marina del Prat Vermell, Barcelona, Catalonia, Spain",41.3255087,2.134734
+5615,Tempura and Thali,,,,,"Carrer de Bejar, 70","Carrer de Béjar, 08014 Barcelona, Spain",41.3774528,2.1450484
+5616,HonestFood Sabino Arana,,Reservations,,,"Carrer de Sabino Arana, 56","Acadèmia SOL, Carrer de Sabino Arana, 56, 08028 Barcelona, Spain",41.3868147,2.1242248
+5617,El restaurante dongfang,,€9 - €300,,,La ramble 43,"Catalonia, Spain",41.66667,2.0
+5618,Rodilla,,€5 - €15,,,"Placa Pau Vila, 1","Plaça Pau Vila, Pas Subterrani a la Platja, 08340 Vilassar de Mar, Spain",41.503278,2.3946612
+5619,Com A Casa,,€4 - €9,,,"Carrer del Taulat, 150","Carrer del Taulat, 08005 Barcelona, Spain",41.4001672,2.2065555
+5620,Rodilla,,€3 - €10,,,"Calle Aristides Maillol, s/n, entrada 14","Catalonia, Spain",41.66667,2.0
+5621,Wok Chow Mein,,"Chinese, Asian",,,"Carrer Santiago de Compostela, 11","Catalonia, Spain",41.66667,2.0
+5622,Sabor Istanbul,,€3 - €26,,,"Carrer del Comte d'Urgell, 256","Carrer del Comte d'Urgell, 256, 258, 08936 Barcelona, Spain",41.3906561,2.1476858
+5623,Oriental Hotel,,€7 - €30,,,"Carrer del Comte D'Urgell, 48","Wok Barcelona, Carrer del Comte d'Urgell, 46, 48, 08011 Barcelona, Spain",41.3812443,2.1601988
+5624,Turris,,,,,"Avinguda Diagonal, 557","Uno De 50, Avinguda Diagonal, 557, 08029 Barcelona, Spain",41.3989776,2.1695371
+5625,Columbus Flag,,,,,Avenida Diagonal 640 Bajo,"Avinguda Diagonal, 08860 Castelldefels, Spain",41.2791223,1.9745445
+5626,La Tasca d'Ocata,,€5 - €15,,,c/ Sant Bru 17,"Turó de Sant Bru, 08391 Tiana, Spain",41.4876514,2.257634
+5627,Subway,,"Lunch, Dinner",,,Gran Via 373,"Gran Via, 08206 Sabadell, Spain",41.5610724,2.1013811
+5628,Coco House Bcn,,€4 - €10,,,"Carrer Meer, 52","Carrer de Meer, 08 Barcelona, Spain",41.377502,2.1903426
+5629,Enrique Tomas Jamon-Tapas-Vino,,"Lunch, Dinner",,,"Av. Diagonal, 3, Planta 3","Catalonia, Spain",41.66667,2.0
+5630,Cal Nico,,,,,"Carrer de Roc Boronat, 9","Carrer de Roc Boronat, 9, 08005 Barcelona, Spain",41.3970706,2.2017208
+5631,Cafeteria Panaderia Vivari,,,,,"Carrer de Girona, 125","Vivari, Carrer de Girona, 125, 08037 Barcelona, Spain",41.3973187,2.1676233
+5632,Con Pan,,European,,,"Gran via Carles lll, 47","Catalonia, Spain",41.66667,2.0
+5633,Zepi New,,Spanish,,,"Carrer Numero 60, 25","Carrer Número 60, Barcelona, Spain",41.3475203,2.1452663
+5634,Zahrat Achamal,,"Moroccan, Mediterranean",,,"Carrer Nou de la Rambla, s/n","Carrer Nou de la Rambla, 08001 Barcelona, Spain",41.3749609,2.1700292
+5635,Plata o Plomo Restaurant Castillo,,€30 - €80,,,"Gran Via de les Corts Catalanes, 596","L'Oliva, Gran Via de les Corts Catalanes, 596, 08007 Barcelona, Spain",41.3865549,2.164941
+5636,Gamar,,Spanish,,,"Carrer del Gas, 4","GAMAR - Espai sense alcohol, Carrer del Gas, 4, 08003 Barcelona, Spain",41.382436,2.1933127
+5637,Tento,,€3 - €8,,,"Comte d'Urgell, 253","Comte d'Urgell, Gran Via de les Corts Catalanes, 08015 Barcelona, Spain",41.3820143,2.1582348
+5638,Manduka Coqueria,,"Breakfast, Lunch, Dinner",,,C/ Terol 8,"Terol, Avinguda de l'Estatut, 08191 Rubí, Spain",41.4861329,2.0402532
+5639,Prieto Empanadas BCN,,Reservations,,,"Carrer de Formentera, 58","Carrer de Formentera, 08458 Cànoves i Samalús, Spain",41.6992263,2.3681747
+5640,BCN Food,,Fast Food,,,85 Torrent De L'olla,"Torrent de l'Olla, Carrer del Torrent de l'Olla, 221, 08012 Barcelona, Spain",41.4066828,2.1518689
+5641,Aqui Me Quedo,,€3 - €8,,,"Calle Padilla, 163","Carrer de Padilla, 8025 Barcelona, Spain",41.407464,2.1748382
+5642,Gelateria Artesanal John & Jeannie's,,Italian,,,"Calle Sugranyes, 61","Carrer de Sugranyes, 082028 Barcelona, Spain",41.3735749,2.1287808
+5643,LA ROSE Restaurant & Lounge Bar,,€10 - €100,,,Pau Claris 103,"Pau Claris, Gran Via de les Corts Catalanes, 08007 Barcelona, Spain",41.3897269,2.1688642
+5644,New Franvic,,Spanish,,,Paseo Santa Coloma 33,"Santa Coloma, Plaça Vella, Centelles, Spain",41.7980868,2.2193913
+5645,Pica and Tapa,,Spanish,,,49 Font Honrada St,"Carrer de la Font Honrada, 8015 Barcelona, Spain",41.3721964,2.155954
+5646,365 Cafe,,Cafe,,,"Travessera de Gracia, 66","Travessera de Gràcia, 66, 08021 Barcelona, Spain",41.396751,2.1508142
+5647,Tacos 99,,Spanish,,,"Av. del Paralelo, 99","Catalonia, Spain",41.66667,2.0
+5648,SandwiChez,,"Breakfast, Lunch, Dinner",,,"Carrer de Sants, 358","Carrer de Sants, 08014 Barcelona, Spain",41.3754056,2.1352477
+5649,Gate 15,,€41 - €56,,,Avenida Sarria 15,"Av Sarrià, Carrer de la Caravel·la La Niña, 08021 Barcelona, Spain",41.3914151,2.1327646
+5650,Fuxia Bistro,,€3 - €10,,,"Poblenou Pere IV, 208","Carrer de Pere IV, Delegació d'Hisenda Administració Poblenou, 08019 Barcelona, Spain",41.4152379,2.2069086
+5651,Kozara,,€20 - €40,,,"Avinguda de Roma 2-4, Barcelona","Nobu Hotel Barcelona, Avinguda de Roma, 2-4, 08029 Barcelona, Spain",41.379651,2.1424978
+5652,El Bar,,Mediterranean,,,Calabria 118,"Carrer de Calàbria, 118, 08015 Barcelona, Spain",41.3807262,2.1540077
+5653,Barpablo,,Spanish,,,Mina de la Ciudad 58,"08930 Sant Adrià de Besòs, Spain",41.4171654,2.2218567
+5654,Tutu's Bar Restaurante,,"Asian, Vietnamese",,,"Calle De Riego, 23","Carrer de Riego, 08014 Barcelona, Spain",41.3768219,2.1383691
+5655,Dionisos,,"Mediterranean, Greek",,,"Muntaner, 102","el Muntaner, Sobremunt, Catalonia, Spain",42.0316824,2.1622
+5656,Queeny's,,Spanish,,,"Carrer de Sant Antoni Abat, 18","Carrer de Sant Antoni Abat, 18, 08001 Barcelona, Spain",41.379371,2.1648539
+5657,El Sultan,,"Moroccan, Mediterranean",,,Calle Villarroel Numero 82,"Catalonia, Spain",41.66667,2.0
+5658,Tenda,,Vegetarian Friendly,,,C. Villaroel 178,"Carrer de Villaroel, 08490 Tordera, Spain",41.7157918,2.6873912
+5659,Sumo Sushi,,,,,"Carrer d'Escipio, 48","Sumo Sushi, Carrer d'Escipió, 48, 08023 Barcelona, Spain",41.4059978,2.1440945
+5660,Santagloria,,"Cafe, Mediterranean",,,"Calle Santalo, 66","Carrer de Santaló, 08021 Barcelona, Spain",41.396429,2.1447797
+5661,Bar La terraza,,Spanish,,,C/ Saragossa 85-87,"Carrer de Saragossa, 08870 Sitges, Spain",41.2322575,1.794891
+5662,Churreria El Buen Gusto,,Cafe,,,"C/Simancas, 100","Carrer de Simancas, 100, 08042 Barcelona, Spain",41.445266,2.1724037
+5663,Restaurant Bar La Curva II,,"Bar, Mediterranean, Spanish, Pub, Dining bars",,,"Carrer de Bilbao, 194","Carrer de Bilbao, 194, 08018 Barcelona, Spain",41.4105341,2.1933466
+5664,Novo rias baixas,,Spanish,,,c/comandant Benitez 31,"Carrer del Comandant Benítez, 08028 Barcelona, Spain",41.3791448,2.1277568
+5665,TC Foodie International,,American,,,"Ronda Sant Pau, 42","Ronda Sant Pau, Avinguda del Paral·lel, 08001 Barcelona, Spain",41.3750966,2.1681601
+5666,Eat-More Doner Kebab,,,,,"Carrer de Platja, 90","carrer de la Platja, Sant Adrià de Besòs, Spain",41.4259074,2.228352
+5667,L'Actual,,Healthy,,,Vilamari 34,"Hotel Vilamari, Carrer de Vilamarí, 34-36, 8015 Barcelona, Spain",41.3767577,2.1525074
+5668,Braserito,,,,,"Carrer de Muntaner, 260","Carrer de Muntaner, 260, 08021 Barcelona, Spain",41.3953737,2.1479999
+5669,Jiu Snack&Lounge,,"Bar, Asian, Pub, Gastropub",,,C/torrent de l'olla 148,"Torrent de l'Olla, Carrer del Torrent de l'Olla, 221, 08012 Barcelona, Spain",41.4066828,2.1518689
+5670,Les Cativas,,"Breakfast, Lunch, Dinner",,,Avinguda mistral 51,"Mistral, Avinguda de Mistral, 8015 Barcelona, Spain",41.3761,2.15421
+5671,Can Bertango,,"Argentinean, South American",,,Riells,"Bigues i Riells, Catalonia, Spain",41.6829678,2.2083886
+5672,Verace,,,,,"Carrer d'Aribau, 254","Carrer d'Aribau, 254, 08006 Barcelona, Spain",41.3965715,2.1490157
+5673,La Proa ponele,,€4 - €20,,,Carrer Doctor Trueta,"Carrer Doctor Trueta, Barcelona, Spain",41.3993297,2.2044154
+5674,Can Rovira,,"Bar, Pub",,,Calle Balmes 194,"Carrer Balmes, 08600 Berga, Spain",42.1044459,1.8477883
+5675,Restaurante Citygarden,,,,,"Colom, 22","Colom, Rambla del Poblenou, 56, 08005 Barcelona, Spain",41.400387,2.2023554
+5676,Restaurante Olimpia,,,,,"Palencia, 28-32","Carrer de Palencia, 08227 Terrassa, Spain",41.5611774,2.0395515
+5677,SJ,,Chinese,,,"Carrer De La Marina, 240","Carrer de la Marina, 240, 08013 Barcelona, Spain",41.4026726,2.1770273
+5678,Turris Sagrada Familia,,"Spanish, Catalan",,,Provenca 485,"Provença, Intercanviador Diagonal - Provença (L3 - L5 - FGC, 080007 Barcelona, Spain",41.3932454,2.1575069
+5679,Espai Canyars,,€10 - €30,,,Ronda Ramon Otero Pedrayo Number 30,"Ronda de Ramón Otero Pedrayo, 08850 Castelldefels, Spain",41.2899498,1.9825838
+5680,Bar Cafeteria T🍅mate Algo,,€5 - €15,,,Gran Via de les Corts Catalanes 1180,"Montoro Perez, Gran Via de les Corts Catalanes, 1178-1180, 08020 Barcelona, Spain",41.420322,2.2103153
+5681,Restaurante Albes,,Spanish,,,Riera de Horta 6,"Plaça de Salvador Riera, Barcelona, Spain",41.418166,2.1742874
+5682,Antonet,,Mediterranean,,,"Carrer Comte d'Urgell, 22","Carrer Comte d'Urgell, 08859 Begues, Spain",41.3296319,1.9331417
+5683,Cal Veganic,,€4 - €10,,,"C/ Llull, 141 Bis","Cal Veganic, Carrer de Llull, 141 bis, 08005 Barcelona, Spain",41.3988611,2.199136
+5684,Turris Sants,,"Spanish, Catalan",,,Sants 223,"08014 Barcelona, Spain",41.3753288,2.1349117
+5685,Raya & Casanova,,,,,"Carrer Villarroel, 23","La Villarroel, Carrer de Villarroel, 87, 08011 Barcelona, Spain",41.3845152,2.1573507
+5686,210bar,,Spanish,,,210 Carrer Casanova,"Casanova, Montmajor, Catalonia, Spain",41.9614742,1.7385128
+5687,Crystallium Lounge,,Japanese,,,"Alfonso XII, 8","Edificio Alfonso XII, Travessera de Gràcia, 73, 08006 Barcelona, Spain",41.3971837,2.1507983
+5688,Las Chicas Imperial,,,,,"Carrer dels Escudellers, 5","Carrer dels Escudellers, 80002 Barcelona, Spain",41.3799218,2.1766799
+5689,La Violeta vinos naturales,,€10 - €30,,,Carrer del baluard 58,"Carrer del Baluard, 72 Barcelona, Spain",41.3784188,2.1895997
+5690,Bombay Brasserie,,"French, Indian",,,Entrada Santa Maria,"Entrada, 08785 Piera, Spain",41.5299313,1.7182934
+5691,Nabucco Obrador,,"Cafe, Spanish, Healthy, Street Food, Catalan",,,"Carrer de la Fraternitat, 31, 08012 Barcelona","Nabucco Obrador Vegetarià, Carrer de la Fraternitat, 31, 08008 Barcelona, Spain",41.4007356,2.1602256
+5692,Restaurante Fooding,,€5 - €11,,,9 Carrer d'Ausias Marc,"carrer d'Ausiàs Marc, 08912 Badalona, Spain",41.4458688,2.2357795
+5693,Bcn con Cuba,,,,,"Carrer de Gravina, 5","Hotel Reding, Carrer de Gravina, 5, 7, 08007 Barcelona, Spain",41.3853032,2.1655507
+5694,Pepe’s Paris,,,,,"Carrer de Paris, 200","Carrer de París, 200, 08036 Barcelona, Spain",41.3942576,2.1544523
+5695,Cafeteria De l'Hospital De La Santa Creu i Sant Pau,,"Mediterranean, Spanish",,,"Carrer de Sant Quinti, 89","Centres d’atenció i seguiment - Unitat de Psiquiatria Clínica i Conductes additives. Hospital de Sant Pau, Carrer de Sant Quintí, 89, 08025 Barcelona, Spain",41.4154392,2.1752381
+5696,Cafeteria Taperia La Blanca,,,,,"Carrer Del Puigmal, 58","Carrer del Puigmal, 08500 Vic, Spain",41.9344482,2.2468973
+5697,Slais Bistro,,€11 - €25,,,Calle Septimania 41,"Carrer de Septimània, 8 Barcelona, Spain",41.4053605,2.1473043
+5698,Restaurante Casa Miguel Barcelona,,Spanish,,,Pasaje Vila Rossell,"Mas Vila, la Cabra Vella, Gurb, Catalonia, Spain",41.9648153,2.2726483
+5699,Al Carbon,,"Breakfast, Lunch, Dinner",,,"Carrer dels Comtes de Bell-Lloc, 143","Carrer dels Comtes de Bell-lloc, 08014 Barcelona, Spain",41.3791779,2.1382206
+5700,Ohana Manos Japonesas,,Japanese Fusion,,,"Carrer de Sant Benet, 5","Carrer de Sant Benet, Sant Salvador de Guardiola, Spain",41.6539722,1.7583437
+5701,Restaurante Vietnamita Casa De Sam,,Reservations,,,"C/ Calabria, 234","Casa de Sam, Carrer de Calàbria, 234, 08015 Barcelona, Spain",41.3861191,2.1469427
+5702,Tigre Y Oso,,,,,"Calle Comerc, 10","Carrer Comerç, Sant Martí de Tous, Spain",41.5638723,1.5224044
+5703,Barbarela,,Fusion,,,"Travessera de Gracia, 160","Travessera de Gràcia, 160, 08025 Barcelona, Spain",41.4015868,2.1583316
+5704,Casals and Family,,,,,"Carrer d'Andrade, 176","Carrer d'Andrade, 08020 Barcelona, Spain",41.4169136,2.2024046
+5705,LeBisbetip Bar,,Mediterranean,,,Calle Siracusa 5,"Siracusa, Plaça del Poble Romaní, 08037 BCN Barcelona, Spain",41.4018062,2.1608594
+5706,Take Me Barcelona,,"Pizza, Cafe, Mediterranean",,,Marina 288,"08729 Castellet i la Gornal, Spain",41.25977,1.6430355
+5707,La Barra de Said,,,,,Carrer de Numancia 112,"Central de Jocs, Carrer de Numància, 112-116, 08029 Barcelona, Spain",41.3865881,2.1358643
+5708,Can Mario,,,,,"Carrer de Casanova, 134","Carrer de Casanova, 134, 08036 Barcelona, Spain",41.3886081,2.1549806
+5709,Enrique Tomas,,"Breakfast, Lunch, Dinner",,,"Carrer Del Rossello, 216","Sabadell Bank, Carrer del Rosselló, 216, 8007 Barcelona, Spain",41.3941482,2.1588452
+5710,Bar Restaurant Arago,,"Breakfast, Lunch, Dinner",,,"Carrer de los Castillejos, 216","Carrer de Los Castillejos, 216, 08025 Barcelona, Spain",41.4045182,2.1810797
+5711,La Guapa Burg,,Healthy,,,En el chaflan de c/Europa con Galileo,"Catalonia, Spain",41.66667,2.0
+5712,L'Angolo di Francesco,,,,,"Carrer de l'Alfambra, 11","Catalonia, Spain",41.66667,2.0
+5713,La Placeta d'en Manu,,€12 - €25,,,Gran Via de les Corts Catalanes 144,"Gran Via de les Corts Catalanes, 08018 Barcelona, Spain",41.4101378,2.1957677
+5714,La Vinya Nostra,,Pub,,,Bonavista 17,"08915 Badalona, Spain",41.4658861,2.2370934
+5715,Pasteleria El Arte-sano,,"Cafe, Spanish",,,Espiell 2-4,"Espill, Carrer del Mont, 08340 Vilassar de Mar, Spain",41.5053892,2.3952024
+5716,El Coc de Farria,,Spanish,,,"Major De Sarria,55","Carrer Major de Can Caralleu, 08017 Barcelona, Spain",41.4020258,2.1116018
+5717,Haagen-Dazs Splau,,"Italian, American",,,"Avda. Baix Llobregat, S/N","Avinguda Baix Llobregat, 08690 Santa Coloma de Cervelló, Spain",41.3674223,2.0181312
+5718,Divers,,"Breakfast, Lunch, Dinner",,,"Estacion Sants. Pl. Paisos Catalans, S/N. Planta 0.","Catalonia, Spain",41.66667,2.0
+5719,El Bistrot Del Firal,,European,,,3 Placa Sant Fortia,"Plaça Sant Fortià, 08570 Torelló, Spain",42.0498942,2.2626523
+5720,Turris Poblenou,,"Spanish, Catalan",,,Rambla del Poblenou 124,"Rambla del Poblenou, Barcelona, Spain",41.3983595,2.2048509
+5721,353 Avenue Restaurant,,,,,"Avinguda Diagonal, 353","Avinguda Diagonal, 353, 08037 Barcelona, Spain",41.3976262,2.1648119
+5722,Foster's Hollywood,,"Lunch, Dinner",,,"Calle Balmes, 76","Carrer Balmes, Ripollet, Spain",41.4942494,2.1597027
+5723,Cerverseria Parlament,,€3 - €20,,,"Calle Parlament, 2","Carrer del Parlament, 08015 Barcelona, Spain",41.3758931,2.161805
+5724,Espai Vart,,"Breakfast, Lunch",,,"C/Pedro de la Creu,14","Carrer de Joan Pedro Roig, 08880 Cubelles, Spain",41.2081349,1.6717343
+5725,Shuyu Hot Pot,,Chinese,,,Calle Muntaner 174,"Muntaner, Via Augusta, 08021 Barcelona, Spain",41.3986188,2.1428749
+5726,The Sandwich Planet,,,,,Carrer de Sardenya,"Carrer de Sardenya, 08088 Barcelona, Spain",41.4011667,2.1762735
+5727,La Bota Bar,,€5 - €25,,,Carrer de Blai #29,"Carrer de Blai, 08001 Barcelona, Spain",41.3729517,2.1664379
+5728,Probio Drinks,,"Bar, Pub",,,C/Tamarit 117,"Carrer de Tamarit, 8015 Barcelona, Spain",41.3739535,2.1546988
+5729,Formentera Barcelona,,Reservations,,,"Carrer del Camp, 68","Carrer del Camp, 08022 Barcelona, Spain",41.4010775,2.1387544
+5730,Setze,,"Bar, Pub",,,"Carrer de Pere Pau, 16","Carrer de Pere Pau, 08043 Barcelona, Spain",41.4300621,2.1599388
+5731,Companys,,Spanish,,,"C/ Pere IV, 185","Carrer de Pere IV, Pere IV, 440, 08019 Barcelona, Spain",41.4134185,2.2060652
+5732,Las Muns Rambla del Poblenou,,€2 - €10,,,Rambla del Poblenou 72,"Rambla del Poblenou, Barcelona, Spain",41.3983595,2.2048509
+5733,Sushi-si,,€20 - €60,,,Calle del Mar 122,"Carrer del Mar, Pontons, Spain",41.4309792,1.4874145
+5734,Sur y Chilchi,,,,,"Carretera de la Bordeta, 48","Carretera de la Bordeta, 08014 Barcelona, Spain",41.3727768,2.1426638
+5735,Lobatus,,,,,"Av. Dr. Maranon, 17","Catalonia, Spain",41.66667,2.0
+5736,SandwiChez,,,,,Carrer de Bruniquer 33- 35,"Carrer de Bruniquer, 08037 BCN Barcelona, Spain",41.4054994,2.1620455
+5737,"Menyabo, S.l.u.",,€5 - €20,,,"Arquitecte sert, 7","Avinguda d'Icària, 08071 Barcelona, Spain",41.392258,2.1985514
+5738,SandwiChez,,,,,"Passeig de la Reina Elisenda de Montcada, 16 bis","Passeig de la Reina Elisenda de Montcada, 08034 Barcelona, Spain",41.4002606,2.1221724
+5739,Khalijia Barcelona,,€18 - €350,,,"Carrer pau claris, 92","Carrer Pau Claris, 08505 Vic, Spain",41.9137074,2.2301625
+5740,La Cuina Dels Avis,,,,,"Carrer de Muntaner, 445","Carrer de Muntaner, 445, 08011 Barcelona, Spain",41.4008265,2.1406583
+5741,G Bar 81,,"Mediterranean, Spanish",,,"Carrer de l'Hospital, 81","Humana, Carrer de l'Hospital, 81, 08001 Barcelona, Spain",41.3801331,2.1695937
+5742,Cinderella,,,,,"Carrer Del Marques de Sentmenat, 60","Carrer del Marquès de Sentmenat, 60, 62, 08029 Barcelona, Spain",41.3850585,2.1384142
+5743,Nova Paris,,,,,"Carrer de Paris, 147","Carrer de Paris, Ándele, 147, 08036 Barcelona, Spain",41.3915159,2.1502342
+5744,Heima,,,,,"C/ Fonollar, 8","08830 Sant Boi de Llobregat, Spain",41.3265399,2.0538614
+5745,Grill Peri Peri Chicken,,€3 - €15,,,Carrer de Les Corts 3,"carrer de les Corts, 08349 Cabrera de Mar, Spain",41.5234945,2.4048038
+5746,Bar Garbardi,,,,,"Carrer de Murcia, 41","Carrer de Múrcia, 41, 08812 Sant Pere de Ribes, Spain",41.2270937,1.7469592
+5747,Sushi ramen b.c.n,,Japanese,,,Carrer de l'or 19,"Gracia Latina, Carrer de l'Or, 19, 08012 Barcelona, Spain",41.4044959,2.1569429
+5748,A Voca,,"International, Mediterranean, European, Contemporary, Fusion, Central European",,,Calle Tuset 17,"Carrer de Tuset, 08006 Barcelona, Spain",41.3956711,2.1523527
+5749,bar ca la sonia,,Spanish,,,Aiguablava 54,"Catalonia, Spain",41.66667,2.0
+5750,Mes Que Bo,,,,,"Carrer Gran de la Sagrera, 122","Carrer Gran de la Sagrera, 122, 08027 Barcelona, Spain",41.4244938,2.1912354
+5751,Monte Rosa Champagne Club,,,,,"Carrer Del Mestre Nicolau, 4","Carrer del Mestre Nicolau, 4, 08021 Barcelona, Spain",41.3930458,2.1422321
+5752,Tento,,€3 - €8,,,"C/Ausias Marc, 6","Carrer Ausias Marc, 08500 Vic, Spain",41.9186839,2.2574027
+5753,La N0 14 Gastrobar,,€10 - €35,,,Passeig Sant Gervasi 81,"Sarrià-Sant Gervasi, Catalonia, Spain",41.40104,2.1394
+5754,Casa Ho,,€12 - €25,,,"Calle Rosellon, 2013","Catalonia, Spain",41.66667,2.0
+5755,Masha Delicies,,"Healthy, Cafe",,,"Avinguda de la Mare de Deu de Monserrat, 62","Barcelona, Surigao del Sur, Philippines",8.15917,126.43417
+5756,La Parada De l'Estacio,,,,,"Pl. Catalunya, S/N. Estacion Renfe. Vestibulo","Catalonia, Spain",41.66667,2.0
+5757,Mercer Cocktail Bar,,€6 - €22,,,"Carrer dels Lledo, 7","Carrer dels Ametllers, 83208 el Masnou, Spain",41.4869784,2.3081206
+5758,Xurreria Bar - Restaurant Universal,,Spanish,,,"Carrer Tamarit, 189","Carrer Tamarit, 08291 Ripollet, Spain",41.5000794,2.1588339
+5759,4makis,,€14 - €25,,,"Carrer de Muntaner, 191, 08036 Barcelona","Carrer de Muntaner, 191, 08036 Barcelona, Spain",41.3929132,2.1507768
+5760,Granja Montsant,,Spanish,,,"Carrer Urgell, 108","Carrer Urgell, 08402 Granollers, Spain",41.5913221,2.2893188
+5761,Stickers,,Spanish,,,"Consell de Cent, 390","Consell de Cent, Carrer del Consell de Cent, 8015 Barcelona, Spain",41.3754015,2.143262
+5762,Bar Restaurant Verin,,"Breakfast, Lunch, Dinner",,,"Carrer Villarroel, 107","La Villarroel, Carrer de Villarroel, 87, 08011 Barcelona, Spain",41.3845152,2.1573507
+5763,Sweet Talk,,,,,"Carrer Diputacio, 361","Carrer Diputacio, 08780 el Papiol, Spain",41.4399999,2.0118282
+5764,Cafe Cafe,,"Breakfast, Lunch, Dinner",,,"Pl. Cataluna, S/N. Renfe. Vestibulo","Catalonia, Spain",41.66667,2.0
+5765,Pane E Salame,,,,,Carrer Del Comandant Benitez,"Carrer del Comandant Benítez, 08028 Barcelona, Spain",41.3799406,2.126718
+5766,Sapor D'italia Glories,,Reservations,,,"Carrer de Lepant, 197","Carrer de Lepant, 197, 08013 Barcelona, Spain",41.4011366,2.1808759
+5767,Lobby Bar and Restaurant,,Reservations,,,"Carrer del Rossello, 265","Hotel Sir Victor, Carrer del Rosselló, 265, 08008 Barcelona, Spain",41.3961876,2.1609748
+5768,Casa Albert,,,,,"Placa de Les Olles, 4","Plaça de les Olles, CP 08003 Barcelona, Spain",41.3834236,2.1830453
+5769,Cafe Chaplin Forn Artesa,,Spanish,,,"Calle Puig y Xoriguer, 7/9","Catalonia, Spain",41.66667,2.0
+5770,Niu Toc,,Mediterranean,,,Placa de la Revolucio de Setembre de 1868,"Plaça de la Revolució de Setembre de 1868, Barcelona, Spain",41.402677,2.1581706
+5771,Santagloria,,Cafe,,,"Avenida de Josep Tarradellas,129","Avinguda de Josep Tarradellas, 129, 08029 Barcelona, Spain",41.3898206,2.1429489
+5772,Bar Los Pinos,,Spanish,,,"Avinguda Generalitat de Catalunya, 1","Generalitat de Catalunya, Sant Jaume Square, 4, 08002 Barcelona, Spain",41.3828401,2.1767417
+5773,Santagloria,,Cafe,,,"Plaza de la Reina Elisenda de Montcada, 12","Montcada i Reixac, Catalonia, Spain",41.48333,2.18333
+5774,El Turco Loco,,€4 - €15,,,Carrer Del Marques De Campo Sagrado 13,"Carrer del Marquès de Campo Sagrado, 08001 Barcelona, Spain",41.3758919,2.1640986
+5775,Santagloria,,Cafe,,,"Placa de Tetuan, 19","Plaça de Tetuan, 19, 08010 Barcelona, Spain",41.395158,2.1745312
+5776,Santagloria,,"Cafe, Mediterranean",,,Calle de Mandri 37,"Carrer de Mandri, 08022 Barcelona, Spain",41.4041865,2.1327914
+5777,Cafeteria del Museu del Disseny,,€14 - €19,,,"Placa de les Glories Catalanes, 37-38","Plaça de les Glòries Catalanes, 08018 Barcelona, Spain",41.4030424,2.1881336
+5778,La Vall D'Espir,,,,,"Vallespir, 71","Carrer del Vallespir, 08014 Barcelona, Spain",41.3795813,2.1369654
+5779,Baixa Limia,,Spanish,0.0,,"Carrer de Sant Antoni Maria Claret, 444","Carrer de Sant Antoni Maria Claret, 444, 08027 Barcelona, Spain",41.4189953,2.1851163
+5780,Braseria Restaurant Can Primo,,"Breakfast, Lunch",,,Carrer Bolivia 340,"Carrer de Bolívia, 08018 Barcelona, Spain",41.4022675,2.1902124
+5781,Gelateria Carte D'Or,,€2 - €10,,,"Centro Comercial Maremagnum, Moll d'Espanya, 5","Catalonia, Spain",41.37583,2.18207
+5782,Free & Sweet,,"American, European, Spanish, Central European, South American",,,Calle America 6,"Carrer Amèrica, 08551 Tona, Spain",41.8467965,2.2263101
+5783,Comeconlosmishras,,,,,Carrer De La Perla 32,"Carrer de la Perla, 32, 08012 Barcelona, Spain",41.4039173,2.1579823
+5784,SandwiChez,,,,,Rocafort 112,"08270 Rocafort, Spain",41.715561,1.9346416
+5785,SandwiChez,,,,,Av. Republica Argentina 31,"Avinguda República Argentina, 08860 Castelldefels, Spain",41.2658338,1.9573076
+5786,Joaquin Buisan Pintanel,,Pub,,,Calle,"Cal Xic Montesell, Vallgorguina, Catalonia, Spain",41.6558344,2.5069667
+5787,SlowMov,,Cafe,,,Carrer de Luis Antunez 18,"SlowMov, Carrer de Luis Antúnez, 18, 08012 Barcelona, Spain",41.3981094,2.1545583
+5788,Josep Llopart Vilaseca,,Greek,,,"Pallars, 317","08586 Perafita, Spain",42.0553441,2.108565
+5789,Laura Larios Boque,,,,,"Bailen, 197","Carrer de Bailèn, 197, 08037 Barcelona, Spain",41.4016647,2.1640053
+5790,Fratelli Ditalia SL.,,,,,"Arago, 364","Aragó, Carrer dels Enamorats, 08013 Barcelona, Spain",41.4041622,2.1816598
+5791,Jose Mendez Rodriguez,,,,,"Rossello, 407","Plaça del Rosselló, Argentona, Catalonia, Spain",41.5522494,2.3990221
+5792,Bar Bodega Lepanto,,Catalan,,,Calle Lepanto 440,"Carrer Lepanto, 08210 Barberà del Vallès, Spain",41.510551,2.1252448
+5793,La Turka Kebab,,"Pizza, Fast Food, International, Spanish, Turkish",,,Calle Josep Pla 45,"Carrer Josep Pla, 08420 Granollers, Spain",41.6202786,2.2901373
+5794,Antonio Allende Lobato,,,,,571 Castelldefels,"Castelldefels, Catalonia, Spain",41.2861022,1.9824173
+5795,Galile,,"Bar, Pub",,,95 Carrer de Galileu,"Carrer de Galileu, 08014 Barcelona, Spain",41.3848016,2.1318087
+5796,Central Park S.c.c.l.,,,,,"Sant Domenec, 13","Sant Domènec, 08221 Terrassa, Spain",41.5599281,2.0120438
+5797,Juen Romano Agud,,,,,569 Bis,"Barcelona, Catalonia, Spain",41.3828939,2.1774322
+5798,Espana,,European,,,242 Carrer del Maresme,"carrer del Maresme, 83208 el Masnou, Spain",41.4790542,2.3024898
+5799,Italian Job,,Italian,,,"Carrer d'Enric Granados, 38","Coaliment, Carrer d'Enric Granados, 38, 40, 080007 Barcelona, Spain",41.3907371,2.1588705
+5800,Churreria Chocolateria Granada,,€2 - €5,,,"Carrer de Sants, 443","Carrer de Sants, 08014 Barcelona, Spain",41.3754056,2.1352477
+5801,880 Restaurant,,Dinner,,,"C/ Doctor Ibanez, 12","Carrer del Doctor Ibáñez, 08014 Barcelona, Spain",41.3872394,2.1319834
+5802,Granja Tino,,Spanish,,,"Mediterranea, 10","Parc de la Mediterranea, Santa Coloma de Gramenet, Spain",41.4521302,2.2194091
+5803,La Pausa,,"Breakfast, Lunch, Dinner",,,"C/ Aragon, S/n","Arxiu de la Corona d'Aragó, Carrer de la Marina, 0805 Barcelona, Spain",41.3947373,2.1860613
+5804,S Cafe,,€5 - €10,,,"Carrer del Camp, 11","Carrer del Camp, 08022 Barcelona, Spain",41.4010775,2.1387544
+5805,Les Torrades,,"Fast Food, Spanish",,,Paseo Valldaura 26,"Valldaura, Manresa, Catalonia, Spain",41.7246532,1.8180933
+5806,La Cuina +Bernat,,"Steakhouse, Cafe, Fast Food, Mediterranean, Catalan",,,"Carrer de Buenos Aires, 16","Carrer de Buenos Aires, 16, 18, 08029 Barcelona, Spain",41.39121,2.1457575
+5807,Punt de Trobada,,Cafe,,,C/Parellada 34,"08430 la Roca del Vallès, Spain",41.6050812,2.3445919
+5808,Restaurante Sintra,,,,,"Consell de Cent, 313","Consell de Cent, Carrer del Consell de Cent, 8015 Barcelona, Spain",41.3754015,2.143262
+5809,Restaurante Seltz,,,,,"Rossello, 154","Carrer del Rosselló, 154, 08036 Barcelona, Spain",41.3911293,2.1548873
+5810,Restaurante Pistach,,,,,245,"Barcelona, Catalonia, Spain",41.3828939,2.1774322
+5811,Restaurante Pitamania,,Greek,,,"Ciutat D""asuncion, 53","Carrer de la Ciutat d'Asunción, 05030 Barcelona, Spain",41.4344631,2.2013465
+5812,Restaurante Recinto,,,,,"Binefar, 37","Binefar, Carrer de Binèfar, 08020 Barcelona, Spain",41.424385,2.203435
+5813,Restaurante Mendes,,,,,"Calle Rubio I Balaguer, 83","Catalonia, Spain",41.66667,2.0
+5814,Restaurante Obradoiro,,,,,"Eguilaz, 9","Catalonia, Spain",41.66667,2.0
+5815,Restaurante Nuno,,,,,"Llull, 229-231","Carrer de Llull, 229-231, 08005 Barcelona, Spain",41.4028804,2.2044702
+5816,Restaurante Lahore,,,,,"Torrent de L""olla, 159","Torrent de l'Olla, Carrer del Torrent de l'Olla, 221, 08012 Barcelona, Spain",41.4066828,2.1518689
+5817,Restaurante La Espiga D'oro,,Spanish,,,"Deu I Mata, 102","Carrer de Deu i Mata, 08021 Barcelona, Spain",41.3890098,2.1367406
+5818,Restaurante Kashmir,,,,,"Sant Pau, 39","Sant Pau, Manresa, Catalonia, Spain",41.7146103,1.8341856
+5819,Cecilia,,,,,"Carrer de Villarroel, 23","Ramen House, Carrer de Villarroel, 23, 08011 Barcelona, Spain",41.3814151,2.1616485
+5820,Restaurante Jan's,,Italian,,,"Joan D""austria, 99","Carrer de Joan d'Àustria, 99, 08018 Barcelona, Spain",41.3953092,2.188376
+5821,Restaurante Huajun,,Chinese,,,"Cinca, 10","Carrer del Cinca, 10, 08030 Barcelona, Spain",41.4351757,2.1921065
+5822,L'espigall MAN YI,,,,,C/ Bailen 122,"Carrer de Provença, Bailèn, 08037 Barcelona, Spain",41.3990806,2.1675307
+5823,Rocktail,,€9 - €18,,,"Carrer Comte d'Urgell,190","Carrer Comte d'Urgell, 08859 Begues, Spain",41.3296319,1.9331417
+5824,GO! Sushing,,€12 - €30,,,Carrer De Laforja 128,"Carrer de Laforja, 08006 Barcelona, Spain",41.4003898,2.151314
+5825,Restaurante Escarlata,,,,,"Joan Blanques, 68","Carrer de Joan Blanques, 68, 08024 Barcelona, Spain",41.406511,2.1591978
+5826,Restaurante Escorpio,,,,,"Murcia, 46-48","Passeig de la Región de Murcia, 08206 Sabadell, Spain",41.5515128,2.0948193
+5827,Zugasti Jatetxea,,Spanish,,,Elexalde 4,"Catalonia, Spain",41.66667,2.0
+5828,Sultan Sofrasi,,Turkish,,,passeig de Fabra i Puig 97,"Passeig de Fabra i Puig, 08031 Barcelona, Spain",41.4303053,2.1755374
+5829,Jambokit,,"Filipino, Asian",,,Calle Estrella 40,"Carrer Estrella, 08192 Sant Quirze del Vallès, Spain",41.5277991,2.0899304
+5830,Cocktail Bar y Arte,,International,,,"Comte d'Urgell, 134","Comte d'Urgell, Gran Via de les Corts Catalanes, 08015 Barcelona, Spain",41.3820143,2.1582348
+5832,El Cafeto de Sants,,Cafe,,,"Carrer de Sants, 294","Carrer de Sants, 08014 Barcelona, Spain",41.3754056,2.1352477
+5833,Restaurant Chaouni,,€4 - €10,,,Calle Lleialtat,"Carrer de la Lleialtat, 08001 Barcelona, Spain",41.3764073,2.1661245
+5834,Turris Calabria,,"Spanish, Catalan",,,Calabria 123,"Carrer de Calàbria, 123, 125, 08015 Barcelona, Spain",41.3806541,2.153358
+5835,Frankfurt Qarma,,€2 - €10,,,Padilla,"Carrer de Padilla, 08013 Barcelona, Spain",41.4025435,2.1813549
+5836,Papabubble,,"Lunch, Dinner",,,"Carrer Ample, 28","Ryans Irish Pub, Carrer Ample, 28, 08002 Barcelona, Spain",41.3804015,2.1800772
+5837,Meiwei,,"Japanese, Asian",,,"Carrer De La Sequia Comtal, 9","Mei Wei, Carrer de la Sèquia Comtal, 9, 08018 Barcelona, Spain",41.4082003,2.1876319
+5838,A Vocados,,€12 - €25,,,"Puigmarti, 2","Carrer de Puigmartí, 08037 BCN Barcelona, Spain",41.4021354,2.1601555
+5839,Global la lira,,Mediterranean,,,C / Sant Isidre 13 08170,"Carrer Sant Isidre, 13, 08756 la Palma de Cervelló, Spain",41.41159,1.9705049
+5840,Asiria,,Mediterranean,,,"Carrer De La Marina, 141","Carrer de la Marina, 141, 08013 Barcelona, Spain",41.396337,2.1844578
+5841,Nirvana Bar&Eats,,€8 - €25,,,Carrer de l'Olivera 70,"Carrer de l'Olivera, la Llacuna, Spain",41.4740084,1.5288999
+5842,Tierra Verde Biocultura,,€4 - €9,,,Calle Bonavenura Polles,"Catalonia, Spain",41.66667,2.0
+5843,El Raco d'en Santy,,€5 - €60,,,C/ Altos Hornos 74,"Catalonia, Spain",41.66667,2.0
+5844,Hot Aribau,,Dinner,,,"C/ Aribau, 254","Aribau, 08204 Sabadell, Spain",41.5283818,2.1105725
+5845,Telekopas,,Greek,,,"Evarist Arnus, 64","Monument a Evarist Arnús i de Ferrer, plaça del Doctor Francesc Niubó i Mary, 08911 Badalona, Spain",41.4543541,2.2487374
+5846,Van Mack SL.,,,,,"Muntaner, 41","el Muntaner, Sobremunt, Catalonia, Spain",42.0316824,2.1622
+5847,Serveis de Sport de la V,,,,,"Diagonal, 695","Diagonal, Passeig de Gràcia, 08008 Barcelona, Spain",41.3955498,2.1604573
+5848,Vermutito,,,,,"Mallorca, 211","Mallorca, Carrer de Mallorca, 08009 Barcelona, Spain",41.3968924,2.1667115
+5849,Peixos Eva I Alex,,Mediterranean,,,"Calle Alfarras, 21 baixos","Catalonia, Spain",41.66667,2.0
+5850,Tasca I vins,,Catalan,,,Carrer congress,"Fira Congress, Carrer de José Agustín Goytisolo, 08080 l'Hospitalet de Llobregat, Spain",41.3524004,2.1271772
+5851,Restaurant Bar,,,,,"Muntaner, 215","el Muntaner, Sobremunt, Catalonia, Spain",42.0316824,2.1622
+5852,Briaven,,Cafe,,,Calle Rosello 413,"Carrer Roselló, 08402 Granollers, Spain",41.6191252,2.2900661
+5853,Bar Virginia,,Mediterranean,,,Carrer Mas Duran 14-16,"Carrer Mas Duran, 08620 Sant Vicenç dels Horts, Spain",41.3801384,1.9973825
+5854,Demonio de los Andes,,Reservations,,,"Carrer de Biscaia, 428","Carrer de Biscaia, 428, 08027 Barcelona, Spain",41.4200473,2.1831331
+5855,Restaurante Todo es Posible,,€20 - €30,,,Placa Major s/n,"Major Square, les Franqueses del Vallès, Catalonia, Spain",41.6200965,2.2975015
+5856,La Taverna Divina,,"Spanish, Greek",,,Sant Bartomeu 58,"Sant Bartomeu, Plaça de l'Església, Vallbona d'Anoia, Spain",41.5188974,1.707701
+5857,Pizzeria La Svolta,,"Lunch, Dinner",,,"Carrer de Perez Galdos, 30","La Svolta, Carrer de Pérez Galdós, 30, 8 Barcelona, Spain",41.4061025,2.1515184
+5858,Santagloria,,Cafe,,,"Calle Rogent, 7","Carrer de Rogent, 08026 Barcelona, Spain",41.4090391,2.1852046
+5859,Clandestine Dinner Party,,Reservations,,,"Carrer de la Ciutat de Granada, 28 Bis","Carrer de la Ciutat de Granada, 08018 Barcelona, Spain",41.4038075,2.1909433
+5860,El Tropic,,,,,Calle Balmes 106,"Carrer Balmes, Ripollet, Spain",41.4942494,2.1597027
+5861,Cafeteria Habana,,"Breakfast, Lunch, Dinner",,,"Calle Provenca, 139","Carrer Provença, 08770 Sant Sadurní d'Anoia, Spain",41.4244026,1.7845184
+5862,Desi Tadka,,"Lunch, Dinner",,,Carrer Antoni de Capmany 31-35,"Catalonia, Spain",41.66667,2.0
+5863,El 19,,Mediterranean,,,"Placa Lluis Perpinya, 19","Plaça de Lluís Perpinyà, Carrer d'Anselm Clavé, 08402 Granollers, Spain",41.6093756,2.289393
+5864,Bruc Cafe,,€3 - €12,,,"Carrer l'Exercit, 8","Plaça del Penedès, Cal Patxaxo, Vilafranca del Penedès, Catalonia, Spain",41.3443214,1.6991124
+5865,Bar Los 10 Hermanos,,Spanish,,,Calle Llobregos 182,"el Llobregós, 08283 Castellfollit de Riubregós, Spain",41.7857508,1.4270336
+5866,Epicur Taberna Urbana,,€20 - €40,,,"Comte Borrell, 160","Carrer del Comte Borrell, 160, 08015 Barcelona, Spain",41.3835207,2.1548621
+5867,Sabor Mediterrani,,Mediterranean,,,Mercat Barceloneta,"Premmia Mercat, Carrer de la Drassana, 6, 72 Barcelona, Spain",41.3754895,2.1894534
+5868,Bar los Hermanos,,Mediterranean,,,Calle Simancas N*30,"Catalonia, Spain",41.66667,2.0
+5869,Italian Slow Food,,€15 - €40,,,"Carrer de Enrique Granados, 149","Catalonia, Spain",41.66667,2.0
+5870,Vermuteria Tulum,,€2 - €10,,,"Carrer Arago, 517-519","Carrer Aragó, 08870 Sitges, Spain",41.2387213,1.8155559
+5871,Pistacho,,Catalan,,,"Passeig de Sant Gervasi, 75","Passeig de Sant Gervasi, 08022 Barcelona, Spain",41.4099272,2.1357342
+5872,La Casita del Hondureno,,,,,Calle Sant Manuel 2-10,"Barcelona Health Hub, Carrer de Sant Antoni Maria Claret, 08025 BARCELONE Barcelona, Spain",41.4132572,2.1749271
+5873,El restaurant del TNC,,€10 - €24,,,"Plaza Les Arts, 1","Catalonia, Spain",41.66667,2.0
+5874,Ana caroline,,"Bar, Pub",,,13Calle Galicia,"Carrer Galicia, 08303 Mataró, Spain",41.5529587,2.4261121
+5875,Dunkin',,"Breakfast, Lunch, Dinner",,,Estacion de Metro Plaza Catalunya S/n,"Catalonia, Spain",41.66667,2.0
+5876,Lavazza,,"Breakfast, Lunch, Dinner",,,"Placa Dels Paisos Catalans, S/n Planta 0","Catalonia, Spain",41.66667,2.0
+5877,PEPE FRITZ,,,,,"Carrer sabateret, 3","Carrer Sabateret, CP 08003 Barcelona, Spain",41.3858142,2.1823275
+5878,Chebu Comida Vietnamita,,Vietnamese,,,"Carrer d'Entenca, 72","Carrer d'Entença, 72, 8015 Barcelona, Spain",41.3785208,2.1523979
+5879,Hamburguesa Nostra,,,,,"Carrer de Brussel-Les, 46","Catalonia, Spain",41.66667,2.0
+5880,Cafeteria E.S.C.I,,"Breakfast, Lunch, Dinner",,,Passeig Pujades N0 1,"Passeig de Pujades, 0805 Barcelona, Spain",41.3912084,2.186586
+5881,Tento,,€3 - €8,,,"C/Bac de Roda, 64","Roda de Ter, Catalonia, Spain",41.98246,2.31125
+5882,Subway,,"Lunch, Dinner",,,Moll D'Espanya 5,"Moll d'Espanya, Gothic Quarter, Barcelona, Catalonia, Spain",41.3790967,2.1834962
+5883,Vinarium,,Reservations,,,"Carrer de Feliu Casanova, 24","Carrer de Feliu Casanova, 082028 Barcelona, Spain",41.3749141,2.1300082
+5884,Atenas,,Mediterranean,,,"Calle Atenas, 42","Catalonia, Spain",41.66667,2.0
+5885,Bar Restaurant Clot de La Mel,,"Bar, European, Spanish, Pub, Catalan, Dining bars",,,"Carrer de Bilbao, 202","Carrer de Bilbao, 08202 Sabadell, Spain",41.5490039,2.1148803
+5886,Cuina Deu,,Chinese,,,"Carrer de Muntaner, 10","Carrer de Muntaner, 08011 Barcelona, Spain",41.3837838,2.1631405
+5887,Palomar Restaurante,,,,,Carrer de Palomar 12,"Carrer de Palomar, 08030 Barcelona, Spain",41.4424228,2.1942018
+5888,Ca l’ Angles,,"Spanish, Dining bars",,,"Carrer de Gava, 20","Carrer de Gavà, 20, 08820 el Prat de Llobregat, Spain",41.3268779,2.0933621
+5889,El encuentro,,€7 - €28,,,Carrer Praga 29,"Praga, Carrer de la Foneria, 25, 08038 Barcelona, Spain",41.3603142,2.1377876
+5890,Casa Voltes,,Mediterranean,,,Carrer d'en Grassot 72,"Carrer d'en Grassot, 08037 BCN Barcelona, Spain",41.4039474,2.1669651
+5891,Bar pana,,Spanish,,,Vilafranca del penedes,"Vilafranca del Penedès, Catalonia, Spain",41.3463825,1.6995213
+5892,Tento,,€3 - €8,,,"Calle Industria, 153","Carrer Indústria, 0890 Sant Feliu de Llobregat, Spain",41.3860866,2.0354332
+5893,Manhattan,,"Bar, Pub",,,Riera Dels Frares,"Riera dels Frares, 08370 Calella, Spain",41.6270968,2.6564216
+5894,Cafe Islandia,,"Bar, Pub",,,"Carrer De Bofarull, 59","Catalonia, Spain",41.66667,2.0
+5895,Hikoma,,€5 - €20,,,Carrer de Gayarre 8,"Carrer de Gayarre, 08430 la Roca del Vallès, Spain",41.5833811,2.323128
+5896,Subway,,American,,,Consell De Cent 355 Baixos,"Catalonia, Spain",41.66667,2.0
+5897,Jamaica,,American,,,"Carrer de Potosi, 2 C.C. La Maquinista, Local C-107","Karauli, India",26.58,77.1
+5898,Restaurante Dilijan,,€20 - €30,,,"Calle Rocafort, 106","Carrer Rocafort, 08271 Artés, Spain",41.794838,1.9463363
+5899,Rodilla,,€3 - €15,,,"Via Laietana, 54","Via Laietana, 54, 08010 Barcelona, Spain",41.3872622,2.1746579
+5900,Fleca & Cafe,,€2 - €20,,,"Carrer del Consell de Cent, 280","Red 58 Night Club Venue, Carrer del Consell de Cent, 280, 080009 Barcelona, Spain",41.3891883,2.1636797
+5901,Aquiles,,,,,Centro de la Vila 35,"Catalonia, Spain",41.66667,2.0
+5902,Rodilla,,€3 - €10,,,"C.C. La Maquinista Carrer de la Ciutat d'Asuncion, 50","Catalonia, Spain",41.66667,2.0
+5903,La dor,,Reservations,,,"Calle Energia, 28","carrer de l'Energia, 08915 Badalona, Spain",41.4616406,2.2517152
+5904,Llevatapes,,€5 - €18,,,Carrer Vintro 5,"08275 Calders, Spain",41.7564047,1.9836215
+5905,HopTown,,€15 - €25,,,Carrer de Sicilia 181,"Carrer de Sicília, 181, 08088 Barcelona, Spain",41.3994482,2.1761158
+5906,a27bakehouse,,"French, Cafe, International, Spanish, Street Food",,,Carrer Carme 53,"Carrer Carme, 08758 Cervelló, Spain",41.3924763,1.9807778
+5907,Bang Bang De Gracia,,,,,Carrer Bruniquer 51,"Bruniquer, Carrer de Bruniquer, 08037 BCN Barcelona, Spain",41.4056088,2.1621684
+5908,Restaurante Marbell,,"Breakfast, Lunch, Dinner",,,"Sant Joan, 66","Sant Joan, Carretera de Gombrén a Cal Ros, Gombrèn, Spain",42.2620854,2.0613563
+5909,Ensaladas y +,,"Fast Food, Healthy",,,C/ Seneca No 33,"Seneca, Carrer de Padilla, 08013 Barcelona, Spain",41.4003824,2.1841121
+5910,L Alegria Del Cor,,"Breakfast, Lunch, Dinner",,,"Calle Viladomat, 293","Viladomat, Plaça de l'Ajuntament, 08698 la Nou de Berguedà, Spain",42.1671835,1.884449
+5911,Tucco Real Food Sant Eusebi,,"Italian, Mediterranean, Argentinean, South American",,,"Carrer Sant Eusebi, 14","Carrer de Sant Eusebi, 08006 Barcelona, Spain",41.4017157,2.1496863
+5912,Restaurante Sandwicheria Halley,,,,,"Sant Joan, 62","Sant Joan, Plaça de l'Esglesia, Matadepera, Spain",41.5992646,2.0280121
+5913,Restaurante N.c.a Ruta Olimpica,,,,,"Diputacio, 428","Diputació, 08733 Puigdàlber, Spain",41.4039736,1.6994345
+5914,Restaurante Paladar,,,,,Maritim,"Maritim, Passeig Marítim, 08380 Malgrat de Mar, Spain",41.6398658,2.7361958
+5915,Baker'S,,"European, Russian",,,"Carrer d'Entenca, 15","Carrer d'Entença, 15, 8015 Barcelona, Spain",41.3758995,2.1551165
+5916,Granja Plaza,,"Bar, Cafe, Spanish, Pub",,,"Carrer del Pintor Fortuny, 26, 08001 Barcelona","Carrer del Pintor Fortuny, 08001 Barcelona, Spain",41.3829469,2.1698603
+5917,Gentilicis,,,,,"Carrer de Mogoda, 2-4","Carrer de Mogoda, 08291 Barberà del Vallès, Spain",41.5152247,2.1515607
+5918,Restaurante Japones Hokkaido,,€9 - €20,,,Carretera la bordeta,"la Bordeta, Barcelona, Catalonia, Spain",41.3691417,2.1373733
+5919,Bar Restaurante A’ Lo Bravo,,"Peruvian, South American",,,Calle trinxan 119-121,"Catalonia, Spain",41.66667,2.0
+5920,Spicy Soul HotPot Barcelona,,€10 - €30,,,Carrer Girona 51,"Carrer Girona, 08512 les Masies de Voltregà, Spain",42.0160762,2.2446757
+5921,Brusi 47 Gourmet,,Reservations,,,"Carrer de Brusi, 47","Yamaneko-ryouri, Carrer de Brusi, 47-49, 08006 Barcelona, Spain",41.4016619,2.1447787
+5922,Los 4 Suyos,,,,,Cicero 9,"Carrer de Ciceró, 08014 Barcelona, Spain",41.3763814,2.1376984
+5923,Zoppelletto,,Italian,,,Carrer de la Marina 288,"Carrer de la Marina, 288, 08088 Barcelona, Spain",41.4050429,2.1739797
+5924,La Sirena,,Spanish,,,Calle Vilamar 13,"Carrer de Vilamar, 08410 Vilanova del Vallès, Spain",41.546312,2.31201
+5925,La Cascara,,€5 - €30,,,Carrer de Sants 308,"Carrer de Sants, 08014 Barcelona, Spain",41.3754056,2.1352477
+5926,La Fusta,,€6 - €20,,,Plaza de Las Palmeres 5,"Catalonia, Spain",41.66667,2.0
+5927,Foster’s Hollywood,,"American, Steakhouse",,,"Carrer de Potosi, 2","Carrer de Potosí, 2, 08030 Barcelona, Spain",41.4427541,2.2002297
+5928,Taberna Barcelona,,"Breakfast, Lunch, Dinner",,,"PL. Paisos Catalans, S/N. Planta 0","Catalonia, Spain",41.66667,2.0
+5929,El Primo cafeteria colombiana,,€15 - €25,,,Calle Sants 252,"Carrer Sants, 08924 Santa Coloma de Gramenet, Spain",41.4603138,2.2006735
+5930,EAT Restaurant - Bar,,€2 - €20,,,"Carrer de Ramiro de Maeztu, 25, 08024 Barcelona","Club Natació Catalunya, Carrer de Ramiro de Maeztu, 25, 08024 Barcelona, Spain",41.4152916,2.1575668
+5931,El Menjador,,,,,"Bellavista, 1","Puigdàlber, Catalonia, Spain",41.4043486,1.694335
+5932,Domino's Pizza,,Pizza,,,Carrer del Freser 45-47,"Carrer del Freser, 08026 Barcelona, Spain",41.41322,2.1812379
+5933,Bracafe,,,,,"Travessera de Gracia, 38","Travessera de Gràcia, 38, 08021 Barcelona, Spain",41.3952296,2.1484997
+5934,La Baronia,,Spanish,,,Crta. de Mollet a Moia,"Moià, Catalonia, Spain",41.81112,2.09839
+5935,Micuit Catering,,,,,"La Pau, 47","08914 Badalona, Spain",41.4505152,2.2232432
+5936,Ca la Carmen,,,,,"Carrer Septimania, 36","Carrer de Septimània, 8 Barcelona, Spain",41.4053605,2.1473043
+5937,Taberna dora grant,,Pub,,,"Avenida de Cornella, 34","Catalonia, Spain",41.66667,2.0
+5938,Marky's Restaurante,,,,,Rambla N 5,"La Rambla, 80002 Barcelona, Spain",41.3811995,2.1733931
+5939,Torres Cerda,,"Breakfast, Lunch",,,"C/ General Almirante, 2","Comfortel Almirante, Via Laietana, 08002 Barcelona, Spain",41.3859497,2.176272
+5940,L'aviram,,"Mediterranean, European, Spanish, Argentinean, Central European, South American",,,Avinguda Diagonal 557,"Uno De 50, Avinguda Diagonal, 557, 08029 Barcelona, Spain",41.3989776,2.1695371
+5941,Pans & Company,,€3 - €7,,,Ciudad Asuncion L-A16,"Catalonia, Spain",41.66667,2.0
+5942,La Campana de Flassaders,,€15 - €25,,,"Flassaders,15, Baixos","Catalonia, Spain",41.66667,2.0
+5943,Borbor bcn,,€15 - €20,,,"Carrera Blanco, 32","Carrer d'En Blanco, 08014 Barcelona, Spain",41.3757799,2.133196
+5944,Anemos Terraza Hotel Cram,,"Bar, Pub",,,Calle Aribau 54,"Aribau, 08204 Sabadell, Spain",41.5283818,2.1105725
+5945,BTC - BarTuCall,,"Breakfast, Lunch, Dinner",,,Carrer De Marquez de Sentmenat 43-45,"Sentmenat, Catalonia, Spain",41.60862,2.13532
+5946,Torre al Mar,,Seafood,,,On the Seafront,"Catalonia, Spain",41.66667,2.0
+5947,Kilim,,Turkish,,,Carrer de Blai 49,"Carrer de Blai, 08001 Barcelona, Spain",41.3729517,2.1664379
+5948,Bacalalo,,Spanish,,,Mercado del Ninot Parada 49,"Catalonia, Spain",41.66667,2.0
+5949,Malam,,Reservations,,,17 Avinguda del Doctor Maranon,"Marhes The Club, Avinguda del Doctor Marañón, 17, 08028 Barcelona, Spain",41.381261,2.1143271
+5950,Pizzeria Nico,,€10 - €15,,,Carles riba 38,"Pg. Francesc Macià, Carles Riba, Passeig Francesc Macià, 08173 Sant Cugat del Vallès, Spain",41.4798828,2.0805982
+5951,Movie,,Reservations,,,50B Roger de Lluria,"Roger De Lluria, Carrer de Roger de Llúria, 08010 Barcelona, Spain",41.3910629,2.1718498
+5952,Oriente,,Reservations,,,"Carrer Del Comte D'Urgell, 46-48","Carrer del Comte d'Urgell, 08936 Barcelona, Spain",41.3894109,2.1489478
+5953,Fast & Healthy Burgers,,€6 - €15,,,Carrer de Benavent 23,"Carrer de Benavent, 08397 Pineda de Mar, Spain",41.6231852,2.6731744
+5954,Zombie Lounge Bar,,"American, Brew Pub, Cafe, Pub, Healthy, Catalan",,,"Paseo Fabra i Puig, 482","Fabra i Puig, Passeig de Fabra i Puig, 08031 Barcelona, Spain",41.4302372,2.1740757
+5955,Restaurante El Rebost De Montjuich,,€10 - €30,,,"Calle Creu Coberta, 58","Creu Coberta, Plaça Espanya, 8015 Barcelona, Spain",41.3752708,2.1483021
+5956,H&E Cafe,,"Bar, Pub",,,Moll Adossat,"Moll Adossat, 08039 Barcelona, Spain",41.3634389,2.182767
+5957,Mammy Blue,,"Breakfast, Lunch, Dinner",,,Carrer Lepant 346,"Carrer Lepant, 08291 Ripollet, Spain",41.4985934,2.1441239
+5958,Orimaki,,€5 - €14,,,Carrer Cristobal de Moura 44,"Carrer Cristobal de Moura, 08930 Sant Adrià de Besòs, Spain",41.4227056,2.222468
+5959,La Cuina del Clot,,€2 - €9,,,Carrer dels Escultors Claperos 40,"La Cuina de Clot, Carrer dels Escultors Claperós, 40, 08018 Barcelona, Spain",41.4065479,2.1890035
+5960,Caffe Delle Fate,,Italian,,,Via Cesarea 143,"Catalonia, Spain",41.66667,2.0
+5961,Plats i Taps,,€7 - €15,,,av.Diagonal 208,"Glòries Multicines, Avinguda Diagonal, 208, 08018 Barcelona, Spain",41.4053714,2.1928801
+5962,El Asador de Rubi,,,,,"Ctra. De Sabadell, 47","Carretera de Sabadell, 08191 Rubí, Spain",41.5067397,2.0417572
+5963,Pizzeria Trattoriai,,€2 - €18,,,"Carrer Nou de la Rambla,103","Carrer Nou de la Rambla, 103, 08001 Barcelona, Spain",41.3754278,2.1705353
+5964,La Menta Latina,,"Lunch, Dinner",,,San Iscle #. 26,"Sant Iscle de Vallalta, Catalonia, Spain",41.6235601,2.5692875
+5965,Salad Market Comte Borrell,,€6 - €12,,,"Carrer del Comte Borrell, 328","Carrer del Comte Borrell, 328, 332, 08029 Barcelona, Spain",41.3911943,2.1446818
+5966,B&C restaurant,,€12 - €30,,,"Calle vilamur, 20","Carrer de Vilamur, 08014 Barcelona, Spain",41.3877892,2.1324114
+5967,Restaurant Roc Gros,,"Breakfast, Lunch, Dinner",,,"Sant Francesc Xavier, 2","Av. de Gràcia, Sant Francesc Xavier, Avinguda de Gràcia, 08172 Sant Cugat del Vallès, Spain",41.4650492,2.0864896
+5968,Arcadio's,,€10 - €25,,,Carrer De Blesa 39,"Carrer de Blesa, 08001 Barcelona, Spain",41.3721734,2.1685162
+5969,El Cafeto De La Carme,,"Breakfast, Lunch, Dinner",,,"Carrer Muntaner, 44","Muntaner, Via Augusta, 08021 Barcelona, Spain",41.3986188,2.1428749
+5970,Food&love,,€6 - €15,,,"Calle Amigo, 37","Amigó, Carrer de Tamarit, 08011 Barcelona, Spain",41.3794054,2.1617499
+5971,Romantico Restaurant Lounge Bar,,Reservations,,,"Av. de Sarria, 17","Restaurant Argentina Vinya Rosa, Avinguda de Sarrià, 17, 08029 Barcelona, Spain",41.3899015,2.1467719
+5972,Passion Fruit,,Healthy,,,"Avinguda Diagonal, 3","Foster’s Hollywood, Avinguda Diagonal, 3, 08021 Barcelona, Spain",41.3921,2.14477
+5973,Tu Cachapa Com,,Reservations,,,"Carrer Pacific, 53","Carrer del Pacífic, 08027 Barcelona, Spain",41.4260052,2.1892055
+5974,Elias y Zacarias,,,,,"C/ Carme, 69","Carme, Catalonia, Spain",41.5319058,1.6198579
+5975,Can Vilamari,,€9 - €46,,,"Carrer de Provenca, 32","Carrer de Provença, 32, 08029 Barcelona, Spain",41.3822894,2.1451544
+5976,Sergi-Entrepans,,€5 - €15,,,"Carrer Olzinelles, 22","08470 Olzinelles, Spain",41.6618101,2.5257548
+5977,Burger World Bcn,,Reservations,,,"Carrer del Consell de Cent, 257","Atame, Carrer del Consell de Cent, 257, 08011 Barcelona, Spain",41.3869204,2.1599135
+5978,Intermezzo,,Reservations,,,"Carrer del Taquigraf Garriga, 58","Carrer del Taquigraf Garriga, 08292 Esparreguera, Spain",41.5387347,1.8662983
+5979,Boix Petit de Sant Joan,,Spanish,,,Paseo de San Juan,"Catalonia, Spain",41.66667,2.0
+5980,Marimorena BCN  Tapas,,Reservations,,,"Carrer de Loreto, 24","Marimorena BCN, Carrer de Loreto, 24-26, 08029 Barcelona, Spain",41.389919,2.1424208
+5981,Cafe de l'estacio Placa Catalunya,,€2 - €11,,,"Estacion de Placa Catalunya, Placa Catalunya s/n 08002 Barcelona","08002, Spain",41.3888,2.159
+5982,Forn el 7,,Spanish,,,Carrer rogent 7,"Carrer de Rogent, 08026 Barcelona, Spain",41.4090391,2.1852046
+5983,Can Sadia Restaurant,,Spanish,,,Gran Via,"Gran Via, 08206 Sabadell, Spain",41.5610724,2.1013811
+5984,Subway,,"Breakfast, Lunch, Dinner",,,Travessera De Dalt 81,"Travessera de Dalt, 08024 Barcelona, Spain",41.4111852,2.1576237
+5985,El Raco de la Linda,,South American,,,"Carrer de Peris i Mencheta, 6","Carrer de Peris i Mencheta, 08032 Barcelona, Spain",41.4252366,2.1611088
+5986,Bee Cakes,,€3 - €6,,,Carrer de Puigmarti 8,"Carrer de Puigmartí, 08037 BCN Barcelona, Spain",41.4021354,2.1601555
+5987,Santagloria,,Cafe,,,"Calle de Buenos Aires, 38","Piper's Tavern, Carrer de Buenos Aires, 38, 40, 08036 Barcelona, Spain",41.3922,2.14697
+5988,Enrich,,,,,Francesc Tarrega 29,"Francesc Tàrrega, Carrer de Garcilaso, 08027 Barcelona, Spain",41.4235766,2.1806944
+5989,Timesburg Laietana,,€7 - €15,,,Via Laietana 20,"Via Laietana, 20, 08002 Barcelona, Spain",41.3837759,2.1792454
+5990,La Vega Grill,,€15 - €20,,,"Passeig de l'Havana, 2-4","Cos Global, Passeig de l'Havana, 2-4, 08030 Barcelona, Spain",41.4363567,2.1961029
+5991,Tomillo,,€2 - €10,,,Carrer fluvia 58,"Carrer Fluvia, 08380 Malgrat de Mar, Spain",41.6532985,2.7418749
+5992,Bar del Poliesportiu de la Marbella,,"Italian, Mexican, Cafe, Mediterranean, Spanish",,,Passeig Maritim del Bogatell 130,"Passeig Marítim del Bogatell, 08019 Barcelona, Spain",41.4015916,2.2144338
+5993,Le Saint-Tropez,,,,,Carrer Provenca N0 88 Calle Calabria,"Catalonia, Spain",41.66667,2.0
+5994,Pandacha,,"Chinese, Japanese, Asian, Taiwanese",,,"Carrer de Jerusalem, 30","Hostal la Palmera, Carrer de Jerusalem, 30, 08001 Barcelona, Spain",41.3819104,2.1707337
+5995,Brasseria Savannah,,,,,Rambla Muntanya 14,"Rambla de la Muntanya, 08041 Barcelona, Spain",41.4216801,2.1778442
+5996,La Tertulia,,"Breakfast, Lunch, Dinner",,,"C/ Barcelona, 3","Barcelona, Catalonia, Spain",41.3828939,2.1774322
+5997,Sushi o  Japanese Coolture,,"Japanese, Sushi",,,Paseo de la Bonanova 111,"la Bonanova, Via Augusta, 08021 Barcelona, Spain",41.3976723,2.1361477
+5998,Bam'Bu,,€3 - €7,,,Carrer de Potosi 2,"Carrer de Potosí, 2, 08030 Barcelona, Spain",41.4427541,2.2002297
+5999,El Illy de Sants,,€5 - €10,,,"Carrer de la Creu Coberta, 126","Carrer de la Creu Coberta, 8015 Barcelona, Spain",41.3750783,2.1482657
+6000,Fusi Bar,,€9 - €15,,,"Sant Elies, 28","Sant Elies, Catalonia, Spain",41.495558,1.6709767
+6001,La Pruna,,€6 - €12,,,"Segadors, 70","Plaça dels segadors, Montgat, Spain",41.4641536,2.2727985
+6002,bar tapas,,Cafe,,,Calle Escorxador 29,"La Madella, Bigues i Riells, Catalonia, Spain",41.6727828,2.2103354
+6003,Tento Valencia 340,,,,,"Calle Valencia, 340","Carrer Valencia, 08770 Sant Sadurní d'Anoia, Spain",41.4281682,1.7826155
+6004,La Raposa del Poble Sec,,€4 - €15,,,Tapioles 47,"La Raposa, Carrer de Tapioles, 47, 08004 Barcelona, Spain",41.3725137,2.1639527
+6005,El Boulevard,,,,,Passeig de Gracia 53,"Passeig de Gràcia, 53, 8007 Barcelona, Spain",41.3922892,2.1638654
+6006,Bar ADA,,"Pub, Gastropub",,,Napoles 281,"Asesorías Napoles, Carrer de Nàpols, 70, 08921 Santa Coloma de Gramenet, Spain",41.4539957,2.2174674
+6007,Per L'Aura,,"Argentinean, South American",,,Huelva 38,"Bread & breakfast, Carrer de Huelva, 38, 08020 Barcelona, Spain",41.4159901,2.1945467
+6008,Enrique Tomas,,€10 - €100,,,"Calle Francesc Perez i Cabrero, 6","Catalonia, Spain",41.66667,2.0
+6009,Rincon Peruano Sl,,€10 - €25,,,"Travessera de Les Corts, 221","El Taller, Travessera de les Corts, 221, 08028 Barcelona, Spain",41.3841013,2.1303841
+6010,CASA PEPE,,"Breakfast, Lunch, Dinner",,,Josep Rodoreda 35 Esplugues de Llobregat Barcelona,"Carrer de Josep Rodoreda, 08950 Esplugues de Llobregat, Spain",41.3743611,2.0836458
+6011,Starbucks,,€2 - €10,,,"Gran Via De Les Corts Catalanes, 389-391","Gran Via de les Corts Catalanes, 389-391, 8015 Barcelona, Spain",41.3765466,2.1507175
+6012,Dunkin',,"Breakfast, Lunch, Dinner",,,"Metro Palacio Real, Linea 3","Catalonia, Spain",41.66667,2.0
+6013,Ya Du,,€2 - €10,,,"C/ Joquim Valls, 74","Catalonia, Spain",41.66667,2.0
+6014,8 i vuit,,,,,Floridablanca 88,"Carrer de Floridablanca, 8015 Barcelona, Spain",41.3762467,2.1555235
+6015,Plume,,€8 - €16,,,Travessera de Gracia 88,"Travessera de Gràcia, 88, 08006 Barcelona, Spain",41.3977931,2.1525593
+6016,Salta,,Fusion,,,Provenca 280,"Provença, Intercanviador Diagonal - Provença (L3 - L5 - FGC, 080007 Barcelona, Spain",41.3932454,2.1575069
+6017,Mo Frankfurt,,Chinese,,,"Gran Via de les Corts Catalanes, 480","Gran Via de les Corts Catalanes, 480, 08015 Barcelona, Spain",41.3797215,2.1562987
